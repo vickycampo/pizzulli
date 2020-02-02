@@ -1,0 +1,24 @@
+04:05:37
+127.0.0.1
+cms
+storeVideoSize
+section_id=5, , video_8354.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"video_8354.mp4","width":"640","height":"360"}
+<->
+04:05:55
+127.0.0.1
+cms
+storeVideoSize
+section_id=5, , video_8354.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"video_8354.mp4","width":"640","height":"360"}
+<->
+04:05:31
+127.0.0.1
+cms
+storeVideoSize
+section_id=5, , 534_5195.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"534_5195.mp4","width":"1920","height":"1080"}
+<->

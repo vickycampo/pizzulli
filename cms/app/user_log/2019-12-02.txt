@@ -1,0 +1,16 @@
+05:12:47
+127.0.0.1
+user
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528329600\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t\t<item name=\"1_8298.jpg\" width=\"1600\" height=\"860\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99\u00a0 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t\t<item name=\"2_3949.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<a href=\"http:\/\/body mn\" target=\"_blank\">body mn<\/a>]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+05:12:13
+127.0.0.1
+user
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1529107200\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t\t<item name=\"1_8298.jpg\" width=\"1600\" height=\"860\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99\u00a0 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t\t<item name=\"2_3949.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<a href=\"http:\/\/body mn\" target=\"_blank\">body mn<\/a>]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->

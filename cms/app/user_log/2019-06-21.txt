@@ -1,0 +1,16 @@
+06:06:51
+127.0.0.1
+user
+
+section_id=, , , , , 2
+ ../data_cms/pics
+{"target":"thumbnails","type":"2"}
+<->
+06:06:54
+127.0.0.1
+user
+createFolder
+section_id=-1, , CAST, , , portfolio
+../data_cms 
+{"action":"createFolder","name":"CAST","type":"portfolio","parent_id":"-1"}
+<->

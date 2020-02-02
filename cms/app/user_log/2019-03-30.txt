@@ -1,0 +1,304 @@
+01:03:39
+127.0.0.1
+cms
+regenerate
+section_id=1543140755, , , , , 2
+ ../data_cms/SUPERTEST
+{"action":"regenerate","path":"..%2F..%2Fdata_cms%2FSUPERTEST","id":"1543140755","target":"images","type":"2"}
+<->
+01:03:44
+127.0.0.1
+cms
+regenerate
+section_id=1545897815, , , , , 2
+ ../data_cms/33/INFO
+{"action":"regenerate","path":"..%2F..%2Fdata_cms%2F33%2FINFO","id":"1545897815","target":"images","type":"2"}
+<->
+01:03:47
+127.0.0.1
+cms
+regenerate
+section_id=1534228545, , , , , 2
+ ../data_cms/TOM/888
+{"action":"regenerate","path":"..%2F..%2Fdata_cms%2FTOM%2F888","id":"1534228545","target":"images","type":"2"}
+<->
+04:03:21
+127.0.0.1
+cms
+createFolder
+section_id=-1, , [1058][1045][1057][1058], , , portfolio
+../data_cms 
+{"action":"createFolder","name":"[1058][1045][1057][1058]","type":"portfolio","parent_id":"-1"}
+<->
+04:03:47
+127.0.0.1
+cms
+addFile
+section_id=1553946201, 1.jpg, , , , 
+ ../data_cms/[1058][1045][1057][1058]
+{"action":"addFile","id":"1553946201"}
+<->
+04:03:00
+127.0.0.1
+cms
+updateFolder
+section_id=4, , pics, , , 
+ ../data_cms/pics
+{"action":"updateFolder","id":"4","name":"pics","descr1":"","descr2":"","descr3":"l","descr4":"","show_preview":"0","seo":"{\"title\":\"\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+04:03:15
+127.0.0.1
+cms
+updateFolder
+section_id=1553946201, , [1058][1045][1057][1058], , , 
+ ../data_cms/[1058][1045][1057][1058]
+{"action":"updateFolder","id":"1553946201","name":"[1058][1045][1057][1058]","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"\u041c\u043e\u0439 \u0442\u0435\u0441\u0442\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+04:03:27
+127.0.0.1
+cms
+updateFolder
+section_id=1553946201, , [1058][1045][1057][1058], , , 
+ ../data_cms/[1058][1045][1057][1058]
+{"action":"updateFolder","id":"1553946201","name":"[1058][1045][1057][1058]","descr1":"","descr2":"","descr3":"\u043f\u0440\u043e","descr4":"","show_preview":"0","seo":"{\"title\":\"\u041c\u043e\u0439 \u0442\u0435\u0441\u0442\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+04:03:04
+127.0.0.1
+cms
+updateFolder
+section_id=1553946201, , [1058][1045][1057][1058], , , 
+ ../data_cms/[1058][1045][1057][1058]
+{"action":"updateFolder","id":"1553946201","name":"[1058][1045][1057][1058]","descr1":"","descr2":"","descr3":"\u043f\u0440\u043e","descr4":"","show_preview":"0","seo":"{\"title\":\"\u041c\u043e\u0439 \u0442\u0435\u0441\u0442\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+04:03:32
+127.0.0.1
+cms
+createFolder
+section_id=-1, , media5, , , text
+../data_cms 
+{"action":"createFolder","name":"media5","type":"text","parent_id":"-1"}
+<->
+05:03:09
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ 
+{"target":"thumbnails","type":"1"}
+<->
+05:03:45
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:02
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:07
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:52
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:09
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:10
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:57
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:21
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:33
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:29
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:10
+127.0.0.1
+cms
+
+section_id=, , , , , 1
+ ../data_cms/pics
+{"target":"thumbnails","type":"1"}
+<->
+05:03:36
+127.0.0.1
+cms
+
+section_id=, , , , , 2
+ ../data_cms/pics
+{"target":"thumbnails","type":"2"}
+<->
+06:03:34
+127.0.0.1
+cms
+
+section_id=, , , , , 2
+ ../data_cms/pics
+{"target":"thumbnails","type":"2"}
+<->
+06:03:00
+127.0.0.1
+cms
+
+section_id=, , , , , 2
+ ../data_cms/pics
+{"target":"thumbnails","type":"2"}
+<->
+06:03:13
+127.0.0.1
+cms
+regenerate
+section_id=4, , , , , 2
+ ../data_cms/pics
+{"action":"regenerate","path":"..%2F..%2Fdata_cms%2Fpics","id":"4","target":"images","type":"2"}
+<->
+06:03:03
+127.0.0.1
+cms
+regenerate
+section_id=4, , , , , 2
+ ../data_cms/pics
+{"action":"regenerate","path":"..%2F..%2Fdata_cms%2Fpics","id":"4","target":"images","type":"2"}
+<->
+06:03:13
+127.0.0.1
+cms
+regenerate
+section_id=4, , , , , 2
+ ../data_cms/pics
+{"action":"regenerate","path":"..%2F..%2Fdata_cms%2Fpics","id":"4","target":"images","type":"2"}
+<->
+06:03:16
+127.0.0.1
+cms
+regenerate
+section_id=1536735695, , , , , 2
+ ../data_cms/UPLOAD
+{"action":"regenerate","path":"..%2F..%2Fdata_cms%2FUPLOAD","id":"1536735695","target":"images","type":"2"}
+<->
+06:03:18
+127.0.0.1
+cms
+regenerate
+section_id=2, , , , , 2
+ ../data_cms/INFO
+{"action":"regenerate","path":"..%2F..%2Fdata_cms%2FINFO","id":"2","target":"images","type":"2"}
+<->
+06:03:22
+127.0.0.1
+cms
+regenerate
+section_id=1539586708, , , , , 2
+ ../data_cms/TY NEWS
+{"action":"regenerate","path":"..%2F..%2Fdata_cms%2FTY+NEWS","id":"1539586708","target":"images","type":"2"}
+<->
+06:03:00
+127.0.0.1
+cms
+regenerate
+section_id=c3c2800790e8a4b8c905a85c222b3a7d, , , , , 2
+ ../data_cms/DD_NEWS
+{"action":"regenerate","path":"..%2F..%2Fdata_cms%2FDD_NEWS","id":"c3c2800790e8a4b8c905a85c222b3a7d","target":"largeimages","type":"2"}
+<->
+06:03:49
+127.0.0.1
+cms
+updateFolder
+section_id=4, , pics, , , 
+ ../data_cms/pics
+{"action":"updateFolder","id":"4","name":"pics","descr1":"","descr2":"","descr3":"l","descr4":"","show_preview":"0","seo":"{\"title\":\"\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+06:03:42
+127.0.0.1
+cms
+updateFolder
+section_id=4, , pics, , , 
+ ../data_cms/pics
+{"action":"updateFolder","id":"4","name":"pics","descr1":"","descr2":"","descr3":"l3","descr4":"","show_preview":"0","seo":"{\"title\":\"\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+06:03:41
+127.0.0.1
+cms
+updateFolder
+section_id=4, , pics, , , 
+ ../data_cms/pics
+{"action":"updateFolder","id":"4","name":"pics","descr1":"","descr2":"","descr3":"l3","descr4":"","show_preview":"1","seo":"{\"title\":\"\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+06:03:52
+127.0.0.1
+cms
+updateFolder
+section_id=4, , pics, , , 
+ ../data_cms/pics
+{"action":"updateFolder","id":"4","name":"pics","descr1":"","descr2":"","descr3":"l3","descr4":"","show_preview":"0","seo":"{\"title\":\"\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+06:03:24
+127.0.0.1
+cms
+updateFolder
+section_id=4, , pics, , , 
+ ../data_cms/pics
+{"action":"updateFolder","id":"4","name":"pics","descr1":"","descr2":"","descr3":"l3","descr4":"","show_preview":"1","seo":"{\"title\":\"\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+06:03:31
+127.0.0.1
+cms
+updateFolder
+section_id=1543677143, , SAFARI, , , 
+ ../data_cms/SAFARI
+{"action":"updateFolder","id":"1543677143","name":"SAFARI","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"1","seo":"{\"title\":\"SAFARI\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->

@@ -1,0 +1,144 @@
+23:03:45
+127.0.0.1
+cms
+addFile
+section_id=1539586708, 3.jpg, , , , 
+ ../data_cms/TY NEWS
+{"action":"addFile","id":"1539586708"}
+<->
+23:03:49
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+23:03:26
+127.0.0.1
+cms
+addFile
+section_id=1539586708, 1.jpg, , , , 
+ ../data_cms/TY NEWS
+{"action":"addFile","id":"1539586708"}
+<->
+23:03:29
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t\t<item name=\"1_3561.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+23:03:26
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t\t<item name=\"1_3561.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+23:03:03
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t\t<item name=\"1_3561.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+23:03:18
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t\t<item name=\"1_3561.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+23:03:18
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+23:03:37
+127.0.0.1
+cms
+addFile
+section_id=1539586708, 3.jpg, , , , 
+ ../data_cms/TY NEWS
+{"action":"addFile","id":"1539586708"}
+<->
+23:03:38
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t\t<item name=\"3_8575.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+23:03:24
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+23:03:08
+127.0.0.1
+cms
+addFile
+section_id=1539586708, 3.jpg, , , , 
+ ../data_cms/TY NEWS
+{"action":"addFile","id":"1539586708"}
+<->
+23:03:31
+127.0.0.1
+cms
+addFile
+section_id=1539586708, 3.jpg, , , , 
+ ../data_cms/TY NEWS
+{"action":"addFile","id":"1539586708"}
+<->
+23:03:18
+127.0.0.1
+cms
+addFile
+section_id=1539586708, 2.jpg, , , , 
+ ../data_cms/TY NEWS
+{"action":"addFile","id":"1539586708"}
+<->
+23:03:20
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t\t<item name=\"2_3949.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+23:03:27
+127.0.0.1
+cms
+addFile
+section_id=1539586708, 1.jpg, , , , 
+ ../data_cms/TY NEWS
+{"action":"addFile","id":"1539586708"}
+<->
+23:03:28
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t\t<item name=\"1_7046.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t\t<item name=\"2_3949.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->
+23:03:50
+127.0.0.1
+cms
+updateNews
+section_id=1539586708, , , , , 
+ ../data_cms/TY NEWS
+{"action":"updateNews","news_xml":"<data>\n<news date=\"1528070400\" header=\"77789011kknmmmi\">\n\t<media>\n\t\t<item name=\"3_8564.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[<p>mmnn 123 99&nbsp; 11<\/p>]]><\/body>\n<\/news>\n<news date=\"1286668800\" header=\"123m\">\n\t<media>\n\t\t<item name=\"2_3949.jpg\" width=\"1021\" height=\"547\" thumbwidth=\"100\" thumbheight=\"200\"\/>\n\t<\/media>\n\t<body><![CDATA[body mn]]><\/body>\n<\/news>\n<\/data>","id":"1539586708"}
+<->

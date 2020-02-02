@@ -1,0 +1,16 @@
+05:06:59
+127.0.0.1
+user
+moveFileToPosition
+section_id=5, 01_intro_50_cent_9806.mp3, , , , 
+ ../data_cms/VIDEO
+{"action":"moveFileToPosition","id":"5","aim":"01_intro_50_cent_9806.mp3","target":"upc-tobymanley.theora_1931.ogg","old_position":"0","new_position":"2","position":"before"}
+<->
+05:06:22
+127.0.0.1
+user
+updateFolder
+section_id=5, , VIDEO, , , 
+ ../data_cms/VIDEO
+{"action":"updateFolder","id":"5","name":"VIDEO","descr1":"site1","descr2":"bob's","descr3":"33","descr4":"44\"48","show_preview":"1","seo":"{\"title\":\"my video new\",\"description\":\"here is my \\\"video\\\"\",\"keywords\":\"some keywords\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->

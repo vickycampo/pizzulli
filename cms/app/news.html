@@ -1,0 +1,62 @@
+<html>
+<head>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/holder.css">
+    <link rel="stylesheet" href="css/viewer.css">
+    <link rel="stylesheet" href="css/news.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!--    <script type="text/javascript" src="/js/jquery-3.3.1.js"></script> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="/code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+
+
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" crossorigin="anonymous">
+    <script src="assets/bootstrap/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="assets/popper.min.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="css/jquery-confirm.min.css">
+    <script src="js/jquery-confirm.min.js"></script>
+</head>
+<script>
+    $(document).ready(function () {
+        $('.news_input').on('change keyup paste', function(){
+            $(this).closest('form').find('.news_update').css({'display':'inline-block'});
+        });
+        $('#add_news').on('click', function(){
+            $('.news_block').clone();
+        });
+    });
+</script>
+<body>
+<div id="paddingContent">
+    <a href="#" class="button" id="add_news">Add news</a>
+    <div class="news_block">
+        <form>
+        <div class="news_title"><input name="news[date]" type="text" class="news_date news_input" value="19-01-2015">
+            <input type="text" name="news[header]" class="news_header news_input" value="UE TAKE YOU TO THE LIGHT..">
+            <a href=""><i class="fa fa-remove" style="font-size:24px"></i></a>
+            <a href=""><i class="fa fa-arrows" style="font-size:24px"></i></a>
+        </div>
+        <div class="news_media"><img src="050.jpg" width="100"></div>
+        <div class="news_body"><textarea class="news_input" name="news[body]" rows="10" style="width: 100%">New year, new website, and another year of UE light...
+
+    "The United Nations (UN) General Assembly 68th Session have proclaimed 2015 as the International Year of Light and Light-based Technologies"
+        </textarea>
+        </div>
+        <div style="clear:both"></div>
+        <div class="news_controls">
+            <a href="" class="button-sm">ADD IMAGE</a><br>
+            <a href="" class="button-sm">ADD VIDEO</a>
+        </div>
+        <div class="news_controls news_update">
+            <a href="" class="button-sm button-red">UPDATE NEWS</a><br>
+        </div>
+        </form>
+    </div>
+
+</body>

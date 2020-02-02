@@ -1,0 +1,6 @@
+{"action":"duplicateFile","id":"4","name":"npc_1375.jpg"}
+<->
+{"action":"getStructure"}
+<->
+{"action":"moveToFolder","id":"4","to_id":"fde76850d9a62a6ad507c7f3f7ac7b55","files":["npc_1375_52.jpg"]}
+<->

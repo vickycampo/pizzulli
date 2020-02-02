@@ -1,0 +1,8 @@
+23:11:28
+127.0.0.1
+user
+storeVideoSize
+section_id=4, , flash_1_1181.mov, , , 
+ ../data_cms/pics
+{"action":"storeVideoSize","id":"4","name":"flash_1_1181.mov","width":"750","height":"750"}
+<->

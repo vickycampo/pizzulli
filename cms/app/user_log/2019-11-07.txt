@@ -1,0 +1,96 @@
+02:11:30
+127.0.0.1
+user
+moveFileToPosition
+section_id=e002857a87485678b76066f364279374, 1_7468.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"moveFileToPosition","id":"e002857a87485678b76066f364279374","aim":"1_7468.jpg","target":"05_3823.jpg","old_position":"13","new_position":"7","position":"after"}
+<->
+02:11:52
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, MAIN4_MOB_9997.jpg, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"MAIN4_MOB_9997.jpg","target":"MELISSA_8097_8997.jpg","old_position":"7","new_position":"1","position":"before"}
+<->
+02:11:59
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, flash_1_1181.mov, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"flash_1_1181.mov","target":"1_6921.jpg","old_position":"24","new_position":"4","position":"before"}
+<->
+02:11:44
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, kinopoisk.ru-Cara-Delevingne-3093224_5096.jpg, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"kinopoisk.ru-Cara-Delevingne-3093224_5096.jpg","target":"5_6675.jpg","old_position":"14","new_position":"17","position":"after"}
+<->
+03:11:36
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, file_3062.jpg, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"file_3062.jpg","target":"flash_1_1181.mov","old_position":"8","new_position":"4","position":"after"}
+<->
+03:11:05
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, kinopoisk.ru-Cara-Delevingne-3093224_5096.jpg, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"kinopoisk.ru-Cara-Delevingne-3093224_5096.jpg","target":"phpmyadmin-module_7457.jpg","old_position":"17","new_position":"11","position":"before"}
+<->
+03:11:32
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, 079_7327_2115.jpg, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"079_7327_2115.jpg","target":"kinopoisk.ru-Cara-Delevingne-3093224_5096.jpg","old_position":"14","new_position":"11","position":"before"}
+<->
+03:11:13
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, 066_picsw_9341.jpg, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"066_picsw_9341.jpg","target":"69_7583_8285.jpg","old_position":"23","new_position":"14","position":"before"}
+<->
+03:11:21
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, MELISSA_8097_8997.jpg, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"MELISSA_8097_8997.jpg","target":"flash_1_1181.mov","old_position":"2","new_position":"4","position":"after"}
+<->
+03:11:22
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, file_3062.jpg, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"file_3062.jpg","target":"npc_1375.jpg","old_position":"5","new_position":"8","position":"after"}
+<->
+03:11:27
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, file_3062.jpg, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"file_3062.jpg","target":"1_6921.jpg","old_position":"8","new_position":"5","position":"before"}
+<->
+04:11:23
+127.0.0.1
+user
+moveFileToPosition
+section_id=4, 2_2462.jpg, , , , 
+ ../data_cms/pics
+{"action":"moveFileToPosition","id":"4","aim":"2_2462.jpg","target":"079_7327_2115.jpg","old_position":"2","new_position":"11","position":"before"}
+<->

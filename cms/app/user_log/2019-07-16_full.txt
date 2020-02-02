@@ -1,0 +1,12 @@
+{"action":"deleteFolder","id":"1545905964"}
+<->
+{"action":"deleteObjects","id":"1545891154","files":["3_2357.jpg","2_6976.jpg"]}
+<->
+{"action":"addFile","id":"1545891154"}
+<->
+{"action":"addFile","id":"1545891154"}
+<->
+{"action":"addFile","id":"1545891154"}
+<->
+{"action":"storeVideoSize","id":"5","name":"video_2432.mp4","width":"640","height":"360"}
+<->

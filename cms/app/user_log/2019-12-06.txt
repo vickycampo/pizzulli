@@ -1,0 +1,72 @@
+03:12:53
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , 534_5195.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"534_5195.mp4","width":"1920","height":"1080"}
+<->
+04:12:20
+127.0.0.1
+user
+storeVideoSize
+section_id=11371d197595f6c86ef31697d3311998, , Pathways 2_1572.mp4, , , 
+../data_cms/HTML SEARCH ENGINE CODE ../data_cms/DIRECTORS/CHRIS WOODS/REEL
+{"action":"storeVideoSize","id":"11371d197595f6c86ef31697d3311998","name":"Pathways 2_1572.mp4","width":"334","height":"190"}
+<->
+04:12:40
+127.0.0.1
+user
+storeVideoSize
+section_id=11371d197595f6c86ef31697d3311998, , Pathways 2_1572.mp4, , , 
+../data_cms/CONTACT US/GOOGLE ANALYTICS ../data_cms/DIRECTORS/CHRIS WOODS/REEL
+{"action":"storeVideoSize","id":"11371d197595f6c86ef31697d3311998","name":"Pathways 2_1572.mp4","width":"334","height":"190"}
+<->
+04:12:43
+127.0.0.1
+user
+storeVideoSize
+section_id=11371d197595f6c86ef31697d3311998, , 2018-04-14_0-57-08_5714-1.mp4, , , 
+../data_cms/CONTACT US/GOOGLE ANALYTICS ../data_cms/DIRECTORS/CHRIS WOODS/REEL
+{"action":"storeVideoSize","id":"11371d197595f6c86ef31697d3311998","name":"2018-04-14_0-57-08_5714-1.mp4","width":"334","height":"190"}
+<->
+04:12:09
+127.0.0.1
+user
+moveFileToPosition
+section_id=11371d197595f6c86ef31697d3311998, Pathways 2_1572.jpg, , , , 
+../data_cms/CONTACT US/GOOGLE ANALYTICS ../data_cms/DIRECTORS/CHRIS WOODS/REEL
+{"action":"moveFileToPosition","id":"11371d197595f6c86ef31697d3311998","aim":"Pathways 2_1572.jpg","target":"2018-04-14_0-57-08_5714-1.jpg","old_position":"0","new_position":"1","position":"after"}
+<->
+05:12:52
+37.193.246.28
+user
+createFolder
+section_id=-1, , TEST, , , portfolio
+../data_cms 
+{"action":"createFolder","name":"TEST","type":"portfolio","parent_id":"-1"}
+<->
+05:12:11
+37.193.246.28
+user
+addFile
+section_id=1575638452, 1201.jpg, , , , 
+ ../data_cms/TEST
+{"action":"addFile","id":"1575638452"}
+<->
+05:12:31
+37.193.246.28
+user
+updateFolder
+section_id=1575638452, , TEST, , , 
+ ../data_cms/TEST
+{"action":"updateFolder","id":"1575638452","name":"TEST","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"1","seo":"{\"title\":\"TEST\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+05:12:40
+37.193.246.28
+user
+createFolder
+section_id=-1, , INFO, , , text
+../data_cms 
+{"action":"createFolder","name":"INFO","type":"text","parent_id":"-1"}
+<->

@@ -1,0 +1,4 @@
+{"target":"thumbnails","type":"2"}
+<->
+{"action":"createFolder","name":"CAST","type":"portfolio","parent_id":"-1"}
+<->

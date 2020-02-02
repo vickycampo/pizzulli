@@ -1,0 +1,14 @@
+{"action":"getStructure"}
+<->
+{"action":"moveToFolder","id":"fde76850d9a62a6ad507c7f3f7ac7b55","to_id":"1549034023","files":["11375164_8375.jpg"]}
+<->
+{"action":"deleteObjects","id":"1549034023","files":["11375164_8375.jpg"]}
+<->
+{"action":"getStructure"}
+<->
+{"action":"moveToFolder","id":"fde76850d9a62a6ad507c7f3f7ac7b55","to_id":"1561124874","files":["11375163_3230.jpg"]}
+<->
+{"action":"getStructure"}
+<->
+{"action":"moveToFolder","id":"fde76850d9a62a6ad507c7f3f7ac7b55","to_id":"1553946201","files":["11375166_9218.jpg"]}
+<->

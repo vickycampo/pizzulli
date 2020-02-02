@@ -1,0 +1,16 @@
+23:03:19
+127.0.0.1
+cms
+updateFolder
+section_id=4, , pics, , , 
+ ../data_cms/pics
+{"action":"updateFolder","id":"4","name":"pics","descr1":"","descr2":"","descr3":"","descr4":"","seo":"{\"title\":\"\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+23:03:39
+127.0.0.1
+cms
+addFile
+section_id=1545905964, Rio.jpg, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->

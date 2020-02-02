@@ -1,0 +1,2047 @@
+23:24:00 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+action=update
+start time = 23:24:00
+end time = 23:24:24
+a=1&phpresult=ok&needreload=no&action=update&nocache=1541226264&b=1
+23:31:14 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+action=update
+start time = 23:31:14
+end time = 23:31:17
+a=1&phpresult=ok&needreload=no&action=update&nocache=1541226677&b=1
+total backups=2 > 2
+total backups=3 > 2
+delete folder data03Nov18
+total backups=3 > 2
+delete folder data03Nov18
+total backups=3 > 2
+delete folder data03Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+00:08:33 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+action=update
+start time = 00:08:33
+end time = 00:08:36
+a=1&phpresult=ok&needreload=no&action=update&nocache=1541315316&b=1
+2018-11-04 00:09:01 download.php 
+127.0.0.1
+total backups=3 > 2
+delete folder data04Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data05Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data06Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data07Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data08Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data09Nov18
+total backups=3 > 2
+delete folder data11Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data16Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data17Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data20Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data21Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data22Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data23Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data24Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data25Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data26Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data29Nov18
+total backups=2 > 2
+total backups=3 > 2
+delete folder data30Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data02Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data02Dec18
+total backups=3 > 2
+delete folder data03Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data06Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data07Dec18
+total backups=3 > 2
+delete folder data09Dec18
+total backups=3 > 2
+delete folder data11Dec18
+total backups=3 > 2
+delete folder data12Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data13Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data14Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data16Dec18
+total backups=3 > 2
+delete folder data17Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+21:15:53 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+action=update
+start time = 21:15:53
+total backups=3 > 2
+delete folder data18Dec18
+21:17:30 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+action=update
+start time = 21:17:30
+end time = 21:17:34
+a=1&phpresult=ok&needreload=no&action=update&nocache=1545196654&b=1
+21:37:38 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+action=update
+start time = 21:37:38
+end time = 21:37:39
+a=1&phpresult=ok&needreload=no&action=update&nocache=1545197859&b=1
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data19Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data20Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data21Dec18
+00:00:11 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+action=update
+start time = 00:00:11
+end time = 00:00:13
+a=1&phpresult=ok&needreload=no&action=update&nocache=1545465613&b=1
+total backups=3 > 2
+delete folder data22Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data23Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data24Dec18
+total backups=3 > 2
+delete folder data24Dec18
+total backups=3 > 2
+delete folder data24Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data25Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data26Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data27Dec18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data17Jan19
+total backups=3 > 2
+delete folder data18Jan19
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data19Jan19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data30Jan19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data31Jan19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data01Nov18
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data02Feb19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data03Feb19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data04Feb19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data06Feb19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data07Feb19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data09Feb19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data14Feb19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data22Feb19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data23Feb19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data24Feb19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data25Feb19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data26Feb19
+total backups=3 > 2
+delete folder data01Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data02Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data06Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data11Mar19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data12Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+22:28:17 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+total backups=2 > 2
+22:29:58 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:31:19 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:33:40 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:34:18 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:34:43 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:35:16 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:35:24 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:38:36 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:38:39 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:39:08 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:39:28 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:40:11 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:40:16 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:40:32 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:44:42 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+22:45:40 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+total backups=2 > 2
+22:57:29 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+23:00:34 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+23:04:26 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+23:11:06 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+23:11:20 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 23:11:20
+23:12:36 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 23:12:36
+23:12:40 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 23:12:40
+23:12:52 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 23:12:52
+end time = 23:12:52
+a=1&phpresult=ok&needreload=no&action=update&nocache=1552457572&b=1
+23:17:17 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 23:17:17
+end time = 23:17:18
+a=1&phpresult=ok&needreload=no&action=update&nocache=1552457838&b=1
+23:18:06 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 23:18:06
+end time = 23:18:07
+a=1&phpresult=ok&needreload=no&action=update&nocache=1552457887&b=1
+23:19:19 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 23:19:19
+end time = 23:19:20
+a=1&phpresult=ok&needreload=no&action=update&nocache=1552457960&b=1
+23:23:30 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 23:23:30
+end time = 23:23:31
+a=1&phpresult=ok&needreload=no&action=update&nocache=1552458211&b=1
+23:24:12 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 23:24:12
+end time = 23:24:12
+a=1&phpresult=ok&needreload=no&action=update&nocache=1552458252&b=1
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data13Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data21Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data22Mar19
+total backups=3 > 2
+delete folder data22Mar19
+total backups=3 > 2
+delete folder data22Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data23Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data24Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data28Mar19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data29Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data30Mar19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data01Feb19
+total backups=3 > 2
+delete folder data08Apr19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data18Apr19
+total backups=3 > 2
+delete folder data19Apr19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data23May19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data24May19
+total backups=3 > 2
+delete folder data27May19
+22:11:39 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 22:11:39
+end time = 22:12:02
+a=1&phpresult=ok&needreload=no&action=update&nocache=1559193122&b=1
+22:12:12 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 22:12:12
+end time = 22:12:17
+a=1&phpresult=ok&needreload=no&action=update&nocache=1559193137&b=1
+total backups=3 > 2
+delete folder data29May19
+total backups=2 > 2
+22:52:01 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 22:52:01
+end time = 22:52:01
+a=1&phpresult=ok&needreload=no&action=update&nocache=1559195521&b=1
+22:52:12 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 22:52:12
+end time = 22:52:13
+a=1&phpresult=ok&needreload=no&action=update&nocache=1559195533&b=1
+22:52:20 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 22:52:20
+end time = 22:52:27
+a=1&phpresult=ok&needreload=no&action=update&nocache=1559195547&b=1
+22:53:34 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 22:53:34
+end time = 22:53:42
+a=1&phpresult=ok&needreload=no&action=update&nocache=1559195622&b=1
+total backups=3 > 2
+delete folder data31May19
+total backups=3 > 2
+delete folder data31May19
+total backups=3 > 2
+delete folder data01Jun19
+total backups=3 > 2
+delete folder data03Jun19
+total backups=3 > 2
+delete folder data03Jun19
+total backups=3 > 2
+delete folder data03Jun19
+total backups=3 > 2
+delete folder data04Jun19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data05Jun19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+21:59:01 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 21:59:01
+end time = 21:59:01
+a=1&phpresult=ok&needreload=no&action=update&nocache=1559797141&b=1
+22:00:16 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+action=update
+start time = 22:00:16
+end time = 22:00:16
+a=1&phpresult=ok&needreload=no&action=update&nocache=1559797216&b=1
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data06Jun19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data07Jun19
+total backups=3 > 2
+delete folder data08Jun19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data09Jun19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data11Jun19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data12Jun19
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data14Jun19
+total backups=3 > 2
+delete folder data15Jun19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data18Jun19
+total backups=3 > 2
+delete folder data21Jun19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data01Jul19
+total backups=3 > 2
+delete folder data08Jul19
+total backups=3 > 2
+delete folder data09Jul19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data16Jul19
+total backups=3 > 2
+delete folder data16Jul19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data17Jul19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data18Jul19
+total backups=3 > 2
+delete folder data18Jul19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data19Jul19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data23Jul19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data27Jul19
+total backups=3 > 2
+delete folder data20Aug19
+total backups=3 > 2
+delete folder data05Sep19
+total backups=3 > 2
+delete folder data08Sep19
+total backups=3 > 2
+delete folder data08Sep19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data27Sep19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data22Sep19
+total backups=3 > 2
+delete folder data15Sep19
+total backups=3 > 2
+delete folder data12Oct19
+total backups=3 > 2
+delete folder data12Oct19
+total backups=3 > 2
+delete folder data12Oct19
+total backups=3 > 2
+delete folder data16Oct19
+total backups=3 > 2
+delete folder data21Oct19
+total backups=3 > 2
+delete folder data22Oct19
+total backups=3 > 2
+delete folder data26Oct19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data27Oct19
+total backups=3 > 2
+delete folder data28Oct19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data29Oct19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data30Oct19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data07Nov19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data11Nov19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data12Nov19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data13Nov19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data15Nov19
+total backups=3 > 2
+delete folder data21Nov19
+total backups=3 > 2
+delete folder data22Nov19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data23Nov19
+total backups=3 > 2
+delete folder data24Nov19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data25Nov19
+total backups=3 > 2
+delete folder data26Nov19
+total backups=3 > 2
+delete folder data27Nov19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+22:32:54 /cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+action=update
+start time = 22:32:54
+end time = 22:32:56
+a=1&phpresult=ok&needreload=no&action=update&nocache=1574922776&b=1
+total backups=3 > 2
+delete folder data04Oct19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data05Dec19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data06Dec19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+04:45:23 /2020/cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+action=update
+start time = 04:45:23
+end time = 04:45:24
+a=1&phpresult=ok&needreload=no&action=update&nocache=1575809124&b=1
+04:52:01 /2020/cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+action=update
+start time = 04:52:01
+end time = 04:52:02
+a=1&phpresult=ok&needreload=no&action=update&nocache=1575809522&b=1
+05:00:09 /2020/cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+action=update
+start time = 05:00:09
+end time = 05:00:10
+a=1&phpresult=ok&needreload=no&action=update&nocache=1575810010&b=1
+total backups=2 > 2
+05:17:44 /2020/cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+action=update
+start time = 05:17:44
+end time = 05:17:44
+a=1&phpresult=ok&needreload=no&action=update&nocache=1575811064&b=1
+total backups=2 > 2
+05:45:42 /2020/cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+action=update
+start time = 05:45:42
+end time = 05:45:42
+a=1&phpresult=ok&needreload=no&action=update&nocache=1575812742&b=1
+05:45:47 /2020/cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+action=update
+start time = 05:45:47
+end time = 05:45:47
+a=1&phpresult=ok&needreload=no&action=update&nocache=1575812747&b=1
+05:45:52 /2020/cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+action=update
+start time = 05:45:52
+end time = 05:45:52
+a=1&phpresult=ok&needreload=no&action=update&nocache=1575812752&b=1
+05:45:54 /2020/cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+action=update
+start time = 05:45:54
+end time = 05:45:54
+a=1&phpresult=ok&needreload=no&action=update&nocache=1575812754&b=1
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data07Dec19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data09Dec19
+total backups=2 > 2
+total backups=3 > 2
+delete folder data11Dec19
+total backups=3 > 2
+delete folder data12Dec19
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data13Dec19
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data14Dec19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+05:52:04 /2020/cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+action=update
+start time = 05:52:04
+end time = 05:52:07
+a=1&phpresult=ok&needreload=no&action=update&nocache=1576331527&b=1
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data21Dec19
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=2 > 2
+total backups=3 > 2
+delete folder data10Dec19
+total backups=2 > 2
+12:04:17 /pizulli/cms/app/utils/updatewebsite.php
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+action=update
+start time = 12:04:17
+end time = 12:04:17
+a=1&phpresult=ok&needreload=no&action=update&nocache=1580641457&b=1

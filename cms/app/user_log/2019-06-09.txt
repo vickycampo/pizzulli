@@ -1,0 +1,320 @@
+00:06:30
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:15
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:43
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:08
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:57
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:55
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:31
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:15
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:04
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:57
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:12
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 1.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:37
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, 05.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:54
+127.0.0.1
+user
+addFile
+section_id=e002857a87485678b76066f364279374, MAIN4_MOB.jpg, , , , 
+ ../data_cms/MODELS
+{"action":"addFile","id":"e002857a87485678b76066f364279374"}
+<->
+00:06:25
+127.0.0.1
+user
+cropImage
+section_id=e002857a87485678b76066f364279374, , 1_8168.jpg, , , 
+ ../data_cms/MODELS
+{"action":"cropImage","id":"e002857a87485678b76066f364279374","name":"1_8168.jpg","coords":{"x1":"1.86654478976234","x2":"1.0271629778672031","y1":"21.03846153846154","y2":"1.1564482029598309"},"target":"thumbnails"}
+<->
+00:06:26
+127.0.0.1
+user
+cropImage
+section_id=e002857a87485678b76066f364279374, , 1_6606.jpg, , , 
+ ../data_cms/MODELS
+{"action":"cropImage","id":"e002857a87485678b76066f364279374","name":"1_6606.jpg","coords":{"x1":"1.724662162162162","x2":"1.0753027909426014","y1":"10.51923076923077","y2":"1.3357753357753357"},"target":"thumbnails"}
+<->
+00:06:45
+127.0.0.1
+user
+cropImage
+section_id=e002857a87485678b76066f364279374, , 1_1292.jpg, , , 
+ ../data_cms/MODELS
+{"action":"cropImage","id":"e002857a87485678b76066f364279374","name":"1_1292.jpg","coords":{"x1":"13.52317880794702","x2":"3.996086105675147","y1":"13.023809523809524","y2":"2.463963963963964"},"target":"thumbnails"}
+<->
+00:06:04
+127.0.0.1
+user
+cropImage
+section_id=e002857a87485678b76066f364279374, , 1_9210.jpg, , , 
+ ../data_cms/MODELS
+{"action":"cropImage","id":"e002857a87485678b76066f364279374","name":"1_9210.jpg","coords":{"x1":"7.676691729323308","x2":"2.48721071863581","y1":"60.77777777777778","y2":"1.9092495636998255"},"target":"thumbnails"}
+<->
+00:06:37
+127.0.0.1
+user
+cropImage
+section_id=e002857a87485678b76066f364279374, , 1_8333.jpg, , , 
+ ../data_cms/MODELS
+{"action":"cropImage","id":"e002857a87485678b76066f364279374","name":"1_8333.jpg","coords":{"x1":"3.88212927756654","x2":"2.5750315258511978","y1":"3.462025316455696","y2":"1.8765008576329332"},"target":"thumbnails"}
+<->
+00:06:27
+127.0.0.1
+user
+deleteObjects
+section_id=e002857a87485678b76066f364279374, , , 2906110_9081.jpg, , 
+ ../data_cms/MODELS
+{"action":"deleteObjects","id":"e002857a87485678b76066f364279374","files":["2906110_9081.jpg"]}
+<->
+00:06:21
+127.0.0.1
+user
+cropImage
+section_id=e002857a87485678b76066f364279374, , 1_8333.jpg, , , 
+ ../data_cms/MODELS
+{"action":"cropImage","id":"e002857a87485678b76066f364279374","name":"1_8333.jpg","coords":{"x1":"2.1182572614107884","x2":"1.0287153652392946","y1":"15.194444444444445","y2":"1.8781115879828325"},"target":"thumbnails"}
+<->
+06:06:23
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , 123_7494.mov, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"123_7494.mov","width":"480","height":"270"}
+<->
+06:06:27
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , kod_5231.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"kod_5231.mp4","width":"400","height":"225"}
+<->
+06:06:42
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , 534_5195.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"534_5195.mp4","width":"1920","height":"1080"}
+<->
+22:06:43
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , 123_7494.mov, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"123_7494.mov","width":"480","height":"270"}
+<->
+22:06:24
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , 534_5195.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"534_5195.mp4","width":"1920","height":"1080"}
+<->
+22:06:51
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , video_2432.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"video_2432.mp4","width":"640","height":"360"}
+<->
+22:06:55
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , 123_7494.mov, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"123_7494.mov","width":"480","height":"270"}
+<->
+22:06:19
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , 123_7494.mov, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"123_7494.mov","width":"480","height":"270"}
+<->
+22:06:48
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , upc-tobymanley.theora_1931.ogg, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"upc-tobymanley.theora_1931.ogg","width":"512","height":"288"}
+<->
+22:06:15
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , upc-tobymanley.theora_1931.ogg, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"upc-tobymanley.theora_1931.ogg","width":"512","height":"288"}
+<->
+22:06:45
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , upc-tobymanley.theora_1931.ogg, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"upc-tobymanley.theora_1931.ogg","width":"512","height":"288"}
+<->
+22:06:35
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , upc-tobymanley.theora_1931.ogg, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"upc-tobymanley.theora_1931.ogg","width":"512","height":"288"}
+<->
+22:06:50
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , upc-tobymanley.theora_1931.ogg, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"upc-tobymanley.theora_1931.ogg","width":"512","height":"288"}
+<->
+22:06:56
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , 534_5195.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"534_5195.mp4","width":"1920","height":"1080"}
+<->
+22:06:38
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , kod_5231.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"kod_5231.mp4","width":"400","height":"225"}
+<->
+22:06:45
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , video_2432.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"video_2432.mp4","width":"640","height":"360"}
+<->
+22:06:50
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , kod_5231.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"kod_5231.mp4","width":"400","height":"225"}
+<->
+22:06:05
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , kod_5231.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"kod_5231.mp4","width":"400","height":"225"}
+<->
+22:06:55
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , kod_5231.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"kod_5231.mp4","width":"400","height":"225"}
+<->
+22:06:08
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , video_2432.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"video_2432.mp4","width":"640","height":"360"}
+<->

@@ -1,0 +1,16 @@
+03:06:31
+127.0.0.1
+user
+createFolder
+section_id=-1, , CMS GUIDE, , , text
+../data_cms 
+{"action":"createFolder","name":"CMS GUIDE","type":"text","parent_id":"-1"}
+<->
+03:06:41
+127.0.0.1
+user
+updateFolder
+section_id=1543677143, , SAFARI, , , 
+ ../data_cms/SAFARI
+{"action":"updateFolder","id":"1543677143","name":"SAFARI","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"SAFARI\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->

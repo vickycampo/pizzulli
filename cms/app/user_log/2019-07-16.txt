@@ -1,0 +1,48 @@
+23:07:00
+127.0.0.1
+user
+deleteFolder
+section_id=1545905964, , , , , 
+ ../data_cms/33_401
+{"action":"deleteFolder","id":"1545905964"}
+<->
+23:07:42
+127.0.0.1
+user
+deleteObjects
+section_id=1545891154, , , 3_2357.jpg,2_6976.jpg, , 
+ ../data_cms/33
+{"action":"deleteObjects","id":"1545891154","files":["3_2357.jpg","2_6976.jpg"]}
+<->
+23:07:00
+127.0.0.1
+user
+addFile
+section_id=1545891154, animgif.gif, , , , 
+ ../data_cms/33
+{"action":"addFile","id":"1545891154"}
+<->
+23:07:19
+127.0.0.1
+user
+addFile
+section_id=1545891154, 1.jpg, , , , 
+ ../data_cms/33
+{"action":"addFile","id":"1545891154"}
+<->
+23:07:51
+127.0.0.1
+user
+addFile
+section_id=1545891154, svg.svg, , , , 
+ ../data_cms/33
+{"action":"addFile","id":"1545891154"}
+<->
+23:07:02
+127.0.0.1
+user
+storeVideoSize
+section_id=5, , video_2432.mp4, , , 
+ ../data_cms/VIDEO
+{"action":"storeVideoSize","id":"5","name":"video_2432.mp4","width":"640","height":"360"}
+<->

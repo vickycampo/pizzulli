@@ -1,0 +1,56 @@
+03:07:12
+127.0.0.1
+user
+duplicateFile
+section_id=4, , 69_7583_8285.jpg, , , 
+ ../data_cms/pics
+{"action":"duplicateFile","id":"4","name":"69_7583_8285.jpg"}
+<->
+03:07:19
+127.0.0.1
+user
+getStructure
+section_id=, , , , , 
+ 
+{"action":"getStructure"}
+<->
+03:07:24
+127.0.0.1
+user
+moveToFolder
+section_id=4, , , 69_7583_8285_40.jpg, , 
+ ../data_cms/pics
+{"action":"moveToFolder","id":"4","to_id":"5","files":["69_7583_8285_40.jpg"]}
+<->
+04:07:30
+127.0.0.1
+user
+getStructure
+section_id=, , , , , 
+ 
+{"action":"getStructure"}
+<->
+04:07:34
+127.0.0.1
+user
+moveToFolder
+section_id=5, , , 261A3786-1b_4659_4316.jpg, , 
+ ../data_cms/VIDEO
+{"action":"moveToFolder","id":"5","to_id":"fde76850d9a62a6ad507c7f3f7ac7b55","files":["261A3786-1b_4659_4316.jpg"]}
+<->
+21:07:43
+127.0.0.1
+user
+getStructure
+section_id=, , , , , 
+ 
+{"action":"getStructure"}
+<->
+21:07:49
+127.0.0.1
+user
+moveToFolder
+section_id=5, , , 8-ORSMAN_FEINSTEIN--74_2243_7886.jpg, , 
+ ../data_cms/VIDEO
+{"action":"moveToFolder","id":"5","to_id":"fde76850d9a62a6ad507c7f3f7ac7b55","files":["8-ORSMAN_FEINSTEIN--74_2243_7886.jpg"]}
+<->

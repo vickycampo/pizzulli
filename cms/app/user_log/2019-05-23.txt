@@ -1,0 +1,24 @@
+00:05:57
+127.0.0.1
+cms
+updateFolder
+section_id=1534226866, , 777, , , 
+ ../data_cms/TOM/777
+{"action":"updateFolder","id":"1534226866","name":"777","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"\",\"description\":\"\",\"keywords\":\"\"}"}
+<->
+00:05:49
+127.0.0.1
+cms
+updateFolder
+section_id=fde76850d9a62a6ad507c7f3f7ac7b55, , TOM, , , 
+ ../data_cms/TOM
+{"action":"updateFolder","id":"fde76850d9a62a6ad507c7f3f7ac7b55","name":"TOM","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"123kkkmm\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"ga-000\",\"gpixel\":\"gp\",\"fbpixel\":\"fb1\"}"}
+<->
+00:05:02
+127.0.0.1
+cms
+updateFolder
+section_id=fde76850d9a62a6ad507c7f3f7ac7b55, , TOM, , , 
+ ../data_cms/TOM
+{"action":"updateFolder","id":"fde76850d9a62a6ad507c7f3f7ac7b55","name":"TOM","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"123kkkmm\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"ga-000\",\"gpixel\":\"gpn\",\"fbpixel\":\"fb1\"}"}
+<->

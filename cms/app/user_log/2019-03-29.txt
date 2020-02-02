@@ -1,0 +1,8 @@
+00:03:04
+127.0.0.1
+cms
+
+section_id=, , , , , 
+ ../data_cms/DD_NEWS
+{"target":"largeimages"}
+<->

@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+
+   	<loc>http://localhost:8085/fashion</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>1.0</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/fashion/#1</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/fashion/#2</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/fashion/#3</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/fashion/#4</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>1.0</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#1</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#2</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#3</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#4</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#5</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#6</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#7</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#8</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#9</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#10</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#11</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#12</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#13</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#14</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#15</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#16</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#17</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#18</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#19</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#20</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#21</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#22</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#23</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#24</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#25</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#26</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#27</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/sexy/#28</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/travel</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>1.0</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/travel/#1</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/travel/#2</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/travel/#3</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/travel/#4</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>1.0</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#1</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#2</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#3</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#4</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#5</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#6</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#7</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#8</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#9</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#10</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#11</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/numinous/#12</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/motion</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>1.0</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/motion/#1</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/motion/#2</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/motion/#3</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>0.8</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/contact</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>1.0</priority>
+   
+   </url>
+ <url>
+
+   	<loc>http://localhost:8085/cv</loc>
+   
+   	<changefreq>monthly</changefreq>
+   
+   	<priority>1.0</priority>
+   
+   </url>
+</urlset>

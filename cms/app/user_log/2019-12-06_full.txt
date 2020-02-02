@@ -1,0 +1,18 @@
+{"action":"storeVideoSize","id":"5","name":"534_5195.mp4","width":"1920","height":"1080"}
+<->
+{"action":"storeVideoSize","id":"11371d197595f6c86ef31697d3311998","name":"Pathways 2_1572.mp4","width":"334","height":"190"}
+<->
+{"action":"storeVideoSize","id":"11371d197595f6c86ef31697d3311998","name":"Pathways 2_1572.mp4","width":"334","height":"190"}
+<->
+{"action":"storeVideoSize","id":"11371d197595f6c86ef31697d3311998","name":"2018-04-14_0-57-08_5714-1.mp4","width":"334","height":"190"}
+<->
+{"action":"moveFileToPosition","id":"11371d197595f6c86ef31697d3311998","aim":"Pathways 2_1572.jpg","target":"2018-04-14_0-57-08_5714-1.jpg","old_position":"0","new_position":"1","position":"after"}
+<->
+{"action":"createFolder","name":"TEST","type":"portfolio","parent_id":"-1"}
+<->
+{"action":"addFile","id":"1575638452"}
+<->
+{"action":"updateFolder","id":"1575638452","name":"TEST","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"1","seo":"{\"title\":\"TEST\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"createFolder","name":"INFO","type":"text","parent_id":"-1"}
+<->

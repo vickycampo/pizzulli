@@ -1,0 +1,72 @@
+{"action":"createFolder","name":"META INFO","type":"text","parent_id":"-1"}
+<->
+{"action":"updateFolder","id":"1576330284","name":"x","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier \",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"deleteFolder","id":"1576330284"}
+<->
+{"action":"createFolder","name":"HTML SEARCH ENGINE CODE","type":"text","parent_id":"-1"}
+<->
+{"action":"updateFolder","id":"1576330350","name":"HTML SEARCH ENGINE CODE","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer \",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"photography, fashion, travel, sexy, numinous, motion\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"onoffObjects","id":"-1","folders":["1576330350"],"status":"1"}
+<->
+{"action":"createFolder","name":"HTML SEARCH ENGINE CODE","type":"text","parent_id":"-1"}
+<->
+{"action":"updateFolder","id":"1576330637","name":"HTML SEARCH ENGINE CODE_187","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"HTML SEARCH ENGINE CODE_187\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"deleteFolder","id":"1576330637"}
+<->
+{"action":"createFolder","name":"HTML SEARCH ENGINE CODE","type":"text","parent_id":"-1"}
+<->
+{"action":"deleteFolder","id":"1576331132"}
+<->
+{"action":"createFolder","name":"HTML SEARCH ENGINE CODE","type":"portfolio","parent_id":"-1"}
+<->
+{"action":"updateFolder","id":"1576331178","name":"HTML SEARCH ENGINE CODE_130","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"HTML SEARCH ENGINE CODE_130\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"createFolder","name":"TITLE","type":"text","parent_id":"1576331178"}
+<->
+{"action":"createFolder","name":"DESCRIPTION","type":"text","parent_id":"1576331178"}
+<->
+{"action":"deleteFolder","id":"1576331178"}
+<->
+{"action":"deleteFolder","id":"1576330350"}
+<->
+{"action":"createFolder","name":"HTML SEARCH ENGINE CODE","type":"portfolio","parent_id":"-1"}
+<->
+{"action":"createFolder","name":"TITLE","type":"text","parent_id":"1576331312"}
+<->
+{"action":"createFolder","name":"DESCRIPTION","type":"text","parent_id":"1576331312"}
+<->
+{"action":"createFolder","name":"KEYWORDS","type":"text","parent_id":"1576331312"}
+<->
+{"action":"createFolder","name":"GOOGLE ANALYTICS","type":"text","parent_id":"1576331312"}
+<->
+{"action":"onoffObjects","id":"-1","folders":["1576331312"],"status":"1"}
+<->
+{"action":"onoffObjects","id":"-1","folders":["1576331312"],"status":"0"}
+<->
+{"action":"onoffObjects","id":"-1","folders":["1576331312"],"status":"1"}
+<->
+{"action":"updateFolder","id":"1576331312","name":"HTML SEARCH ENGINE CODE","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"updateFolder","id":"1576331312","name":"HTML SEARCH ENGINE CODE","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"updateFolder","id":"1576331459","name":"GOOGLE ANALYTICS","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"GOOGLE ANALYTICS\",\"description\":\"\",\"keywords\":\"\"}"}
+<->
+{"action":"updateFolder","id":"1576331312","name":"HTML SEARCH ENGINE CODE","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer\",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"updateFolder","id":"1576331312","name":"HTML SEARCH ENGINE CODE","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer\",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"LA photographer, fashion, travel, sexy, numinous, motion\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"createFolder","name":"META","type":"text","parent_id":"-1"}
+<->
+{"action":"onoffObjects","id":"-1","folders":["1576342905"],"status":"1"}
+<->
+{"action":"updateFolder","id":"1576342905","name":"META","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"META\",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"updateFolder","id":"1576342905","name":"META","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer\",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"updateFolder","id":"1576342905","name":"META","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer\",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"LA photographer, fashion, travel, sexy, numinous, motion\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+{"action":"deleteFolder","id":"1576331312"}
+<->

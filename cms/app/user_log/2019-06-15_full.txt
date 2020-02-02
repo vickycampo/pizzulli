@@ -1,0 +1,10 @@
+{"action":"addFile","id":"5"}
+<->
+{"action":"addFile","id":"5"}
+<->
+{"action":"addFile","id":"5"}
+<->
+{"action":"cropImage","id":"5","name":"261A3786-1b_4659_4316.jpg","coords":{"x1":"6.516129032258065","x2":"1.5303030303030303","y1":"9.484375","y2":"1.6517006802721088"},"target":"images"}
+<->
+{"action":"cropImage","id":"5","name":"261A3786-1b_4659_4316.jpg","coords":{"x1":"0","x2":"1","y1":"9.484375","y2":"2.281954887218045"},"target":"thumbnails"}
+<->

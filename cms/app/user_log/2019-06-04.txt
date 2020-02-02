@@ -1,0 +1,8 @@
+21:06:35
+127.0.0.1
+user
+createFolder
+section_id=fde76850d9a62a6ad507c7f3f7ac7b55, , 123, , , text
+../data_cms/TOM 
+{"action":"createFolder","name":"123","type":"text","parent_id":"fde76850d9a62a6ad507c7f3f7ac7b55"}
+<->

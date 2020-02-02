@@ -1,0 +1,24 @@
+22:09:11
+127.0.0.1
+user
+duplicateFile
+section_id=4, , npc_1375.jpg, , , 
+ ../data_cms/pics
+{"action":"duplicateFile","id":"4","name":"npc_1375.jpg"}
+<->
+22:09:53
+127.0.0.1
+user
+getStructure
+section_id=, , , , , 
+ 
+{"action":"getStructure"}
+<->
+22:09:59
+127.0.0.1
+user
+moveToFolder
+section_id=4, , , npc_1375_52.jpg, , 
+ ../data_cms/pics
+{"action":"moveToFolder","id":"4","to_id":"fde76850d9a62a6ad507c7f3f7ac7b55","files":["npc_1375_52.jpg"]}
+<->

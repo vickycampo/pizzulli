@@ -1,0 +1,16 @@
+12:02:09
+::1
+user
+createFolder
+section_id=1575805616, , test, , , news
+../data_cms/PORTFOLIO 
+{"action":"createFolder","name":"test","type":"news","parent_id":"1575805616"}
+<->
+12:02:44
+::1
+user
+createFolder
+section_id=1575805616, , testSection, , , portfolio
+../data_cms/PORTFOLIO 
+{"action":"createFolder","name":"testSection","type":"portfolio","parent_id":"1575805616"}
+<->

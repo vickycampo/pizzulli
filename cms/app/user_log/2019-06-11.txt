@@ -1,0 +1,208 @@
+22:06:16
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-04-09 at 21.11.11.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+22:06:17
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-04-09 at 21.10.44.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+22:06:29
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-03-04 at 14.32.12.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+22:06:31
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-03-04 at 14.42.09.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+22:06:33
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-04-09 at 21.10.44.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+22:06:35
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-04-09 at 21.11.11.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+22:06:36
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-04-09 at 21.00.20.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+22:06:52
+127.0.0.1
+user
+deleteObjects
+section_id=5, , , WhatsApp Image 2019-04-09 at 21.11.11_5204.jpg,WhatsApp Image 2019-04-09 at 21.10.44_5506.jpg,WhatsApp Image 2019-03-04 at 14.32.12_5841.jpg,WhatsApp Image 2019-03-04 at 14.42.09_3665.jpg,WhatsApp Image 2019-04-09 at 21.10.44_4139.jpg,WhatsApp Image 2019-04-09 at 21.11.11_3646.jpg,WhatsApp Image 2019-04-09 at 21.00.20_6030.jpg, , 
+ ../data_cms/VIDEO
+{"action":"deleteObjects","id":"5","files":["WhatsApp Image 2019-04-09 at 21.11.11_5204.jpg","WhatsApp Image 2019-04-09 at 21.10.44_5506.jpg","WhatsApp Image 2019-03-04 at 14.32.12_5841.jpg","WhatsApp Image 2019-03-04 at 14.42.09_3665.jpg","WhatsApp Image 2019-04-09 at 21.10.44_4139.jpg","WhatsApp Image 2019-04-09 at 21.11.11_3646.jpg","WhatsApp Image 2019-04-09 at 21.00.20_6030.jpg"]}
+<->
+23:06:42
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-04-09 at 21.11.42.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:44
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-04-09 at 21.11.27.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:45
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-04-09 at 21.12.08.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:38
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.34.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:39
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.35(1).jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:40
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.36(2).jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:13
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.36(1).jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:59
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.36(2).jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:00
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.36.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:51
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.36(2).jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:53
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.36.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:04
+127.0.0.1
+user
+deleteObjects
+section_id=5, , , WhatsApp Image 2019-04-09 at 21.11.42_3738.jpg,WhatsApp Image 2019-04-09 at 21.11.27_4668.jpg,WhatsApp Image 2019-04-09 at 21.12.08_7855.jpg,WhatsApp Image 2019-05-09 at 16.26.34_3331.jpg,WhatsApp Image 2019-05-09 at 16.26.35(1)_6721.jpg,WhatsApp Image 2019-05-09 at 16.26.36(2)_6246.jpg,WhatsApp Image 2019-05-09 at 16.26.36(1)_3034.jpg,WhatsApp Image 2019-05-09 at 16.26.36(2)_4916.jpg,WhatsApp Image 2019-05-09 at 16.26.36_2304.jpg,WhatsApp Image 2019-05-09 at 16.26.36(2)_8822.jpg,WhatsApp Image 2019-05-09 at 16.26.36_5336.jpg, , 
+ ../data_cms/VIDEO
+{"action":"deleteObjects","id":"5","files":["WhatsApp Image 2019-04-09 at 21.11.42_3738.jpg","WhatsApp Image 2019-04-09 at 21.11.27_4668.jpg","WhatsApp Image 2019-04-09 at 21.12.08_7855.jpg","WhatsApp Image 2019-05-09 at 16.26.34_3331.jpg","WhatsApp Image 2019-05-09 at 16.26.35(1)_6721.jpg","WhatsApp Image 2019-05-09 at 16.26.36(2)_6246.jpg","WhatsApp Image 2019-05-09 at 16.26.36(1)_3034.jpg","WhatsApp Image 2019-05-09 at 16.26.36(2)_4916.jpg","WhatsApp Image 2019-05-09 at 16.26.36_2304.jpg","WhatsApp Image 2019-05-09 at 16.26.36(2)_8822.jpg","WhatsApp Image 2019-05-09 at 16.26.36_5336.jpg"]}
+<->
+23:06:15
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.34.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:17
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.36.jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:18
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.35(2).jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:19
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.35(1).jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:20
+127.0.0.1
+user
+addFile
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.36(2).jpeg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+23:06:10
+127.0.0.1
+user
+addFile
+section_id=5, 8-ORSMAN_FEINSTEIN--74_2243.jpg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->

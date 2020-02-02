@@ -1,0 +1,4 @@
+{"action":"createFolder","name":"test","type":"news","parent_id":"1575805616"}
+<->
+{"action":"createFolder","name":"testSection","type":"portfolio","parent_id":"1575805616"}
+<->

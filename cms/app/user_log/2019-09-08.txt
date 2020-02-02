@@ -1,0 +1,16 @@
+21:09:10
+127.0.0.1
+user
+createFolder
+section_id=1553946201, , A [43] B, , , portfolio
+../data_cms/[1058][1045][1057][1058] 
+{"action":"createFolder","name":"A [43] B","type":"portfolio","parent_id":"1553946201"}
+<->
+21:09:23
+127.0.0.1
+user
+addFile
+section_id=1568002391, 1557124920542_default.jfif, , , , 
+ ../data_cms/[1058][1045][1057][1058]/A [43] B
+{"action":"addFile","id":"1568002391"}
+<->

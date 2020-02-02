@@ -1,0 +1,16 @@
+21:11:37
+127.0.0.1
+user
+addFile
+section_id=1545905928, VIRAUS3142_Brand_DOOH_man_1920x1080px_[WxH]_R2.mp4, , , , 
+ ../data_cms/33_545
+{"action":"addFile","id":"1545905928"}
+<->
+21:11:43
+127.0.0.1
+user
+storeVideoSize
+section_id=1545905928, , VIRAUS3142_Brand_DOOH_man_1920x1080px_[WxH]_R2_1794.mp4, , , 
+ ../data_cms/33_545
+{"action":"storeVideoSize","id":"1545905928","name":"VIRAUS3142_Brand_DOOH_man_1920x1080px_[WxH]_R2_1794.mp4","width":"3840","height":"2160"}
+<->

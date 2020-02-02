@@ -1,0 +1,433 @@
+[draggable] {
+
+}
+
+img {
+	opacity: 1;
+	transition: opacity 0.3s;
+}
+
+img[data-src] {
+	opacity: 0;
+}
+
+.over {
+    background-color: #000 !important;
+}
+.holder {
+    position: relative;
+    width: 170px;
+    height: 174px;
+    font-size: 10px;
+    display: inline-block;
+    background-color: #fff;
+    margin: 5px 3px 20px 0px;
+    -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;      /* IE 10+ */
+    user-select: none;          /* Likely future */
+}
+.holder_instagram {
+    width: 293px;
+    height: 293px;
+    margin: 0px 28px 28px 0px;
+}
+.holder .ui-selecting {
+    opacity: .3;
+}
+
+.holder .ui-selected {
+    opacity: .3;
+}
+
+.holder_move_pointer {
+    position: absolute;
+    right: 0;
+    height: 140px;
+    width: 20px;
+    background: url(../images/move_to_position_button.svg);
+    display: none;
+
+}
+.holder_move_pointer0 {
+    position: absolute;
+    left: -22px;
+    height: 140px;
+    width: 20px;
+    background: url(../images/move_to_position_button.svg);
+    display: none;
+}
+.holder_btn {
+    position: absolute;
+    width: 168px;
+    height: 148px;
+    
+    background-color: #000;
+    opacity: 0;
+    z-index: 4;
+    cursor: pointer;
+}
+
+.trans {
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s;
+    transition: opacity 0.3s;
+}
+
+.holder_shadow {
+    position: absolute;
+    width: 148px;
+    height: 174px;
+    opacity: 0.3;
+    background-color: #000;
+    display: none;
+    iz-index: 2;
+}
+
+.holder_folder{
+    position: absolute;
+    width: 148px;
+    height: 148px;
+    z-index: 0;
+}
+.holder_cover {
+    position: absolute;
+    display: flex;
+    width: 130px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    top: 25px;
+    left: 9px;
+}
+
+.holder_cover_instagram {
+    width: 293px;
+    height: 293px;
+    top: 0;
+    left: 0;
+}
+
+.holder_cover_hidden {
+    display: none;
+}
+
+.holder_cover>img {
+  max-width: 130px;
+  max-height: 130px;
+}
+.holder_cover_instagram>img {
+  max-width: 293px;
+  max-height: 293px;
+}
+
+.item_name {
+    position: absolute;
+    bottom: 8px;
+    width: 148px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow:hidden
+}
+
+.item_underline {
+    position: absolute;
+    bottom: 0;
+    border-bottom: 1px solid #d6d6d6;
+    width: 148px;
+}
+.helper {
+    position: absolute;
+    top: -100px;
+    width: 100px;
+    height: 100px;
+    border: 1px dashed #ccc;
+    z-index: 1000;
+}
+#avatar {
+    position: absolute;
+    width: auto;
+    height: 50px;
+    opacity: .5;
+    top: -100px;
+    z-index: 999;
+    itransform: scale(.5, .5);
+    pointer-events: none;
+}
+
+.holder_settings {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    background: url(../images/settings.svg);
+    top: 4px;
+    left: 40px;
+    z-index: 5;
+    cursor: pointer;
+}
+.holder_settings_center {
+    left: 60px;
+}
+
+.upload_thumb {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    background: url(../images/replace_thumbnails.svg);
+    top: 4px;
+    left: 80px;
+    z-index: 5;
+    cursor: pointer;
+}
+
+.holder_delete {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    background: url(../images/delete_file_folder.svg);
+    top: 4px;
+    right: 23px;
+    z-index: 5;
+    cursor: pointer;
+}
+.holder_video_icon {
+    position: absolute;
+    width: 26px;
+    height: 23px;
+    background: url(../images/instagram_video_icon.svg);
+    top: 0;
+    right: 0;
+    z-index: 3;
+  
+}
+
+.holder_counter {
+    position: absolute;
+    width: 28px;
+    height: 12px;
+    bottom: 26px;
+    left: 60px;
+    z-index: 1;
+    color: #bbb;
+    padding-top: 10px;
+    text-align: center;
+}
+
+
+.holder_debug {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    font-size: 10px;
+    top: 10px;
+    left: 5px;
+    z-index: 2;
+    display: none;
+}
+
+.holder_onoff {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    bottom: 27px;
+    right: 23px;
+    z-index: 5;
+    cursor: pointer;
+}
+.holder_onoff_on {
+    background: url(../images/turn_on.svg);
+}
+.holder_onoff_off {
+    background: url(../images/turn_off.svg);
+}
+
+.holder_option {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    bottom: 27px;
+    left: 40px;
+    z-index: 5;
+    cursor: pointer;
+}
+.holder_option_off {
+    background: url(../images/option_off.svg);
+}
+.holder_option_on {
+    background: url(../images/option_on.svg);
+}
+
+.holder_duplicate {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    bottom: 27px;
+    left: 80px;
+    background: url(../images/duplicate_file.svg);
+    z-index: 5;
+    cursor: pointer;
+}
+
+.holder_drag {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    bottom: 27px;
+    left: 0;
+    background: url(../images/move_to_position.svg);
+    z-index: 5;
+    cursor: pointer;
+}
+
+.holder_move {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 4px;
+    left: 0;
+    background: url(../images/move_to_section.svg);
+    z-index: 5;
+    cursor: pointer;
+}
+
+.holder_caption {
+    position: absolute;
+    width: 148px;
+    height: 70px;
+    top: 40px;
+    left: 0;
+    z-index: 3;
+    display: none;
+}
+
+.holder_caption_back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.6;
+}
+
+.holder_caption_back_red {
+    background-color: #ff0000;
+}
+
+.holder_caption_block {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    text-transform: uppercase;
+
+}
+.holder_caption_text {
+    display: block;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.btns_holder {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+   
+}
+.holder_instagram .dynamic {
+    display: none;
+}
+.holder_instagram .dynamic1 {
+    display: none;
+}
+
+.holder_instagram .btns_holder {
+    display: none;
+}
+.holder_instagram .item_name {
+    display: none;
+}
+.holder_instagram .item_underline {
+    display: none;
+}
+.holder_instagram .holder_delete {
+    right: 4px;
+    background: url(../images/delete_file_folder_w.svg);
+}
+.holder_instagram .holder_drag {
+    bottom: 0px;
+    background: url(../images/move_to_position_w.svg);
+}
+                        
+.holder_instagram .upload_thumb {
+    background: url(../images/replace_thumbnails_w.svg);
+    left: 176px;
+
+}
+.holder_instagram .holder_settings {
+    background: url(../images/settings_w.svg);
+    left: 88px;
+}
+
+
+
+.holder_instagram .holder_move {
+    background: url(../images/move_to_section_w.svg);
+}
+
+.holder_instagram .holder_option {
+    bottom: 0px;
+    left: 89px;
+}
+.holder_instagram .holder_duplicate {
+    bottom: 0px;
+    left: 177px;
+    background: url(../images/duplicate_w.svg);
+
+}
+.holder_instagram .holder_onoff {
+    bottom: 0px;
+    right: 0px;
+}
+.holder_instagram .holder_shadow {
+    width: 293px;
+    height: 293px;
+}
+.holder_instagram .holder_btn {
+    width: 293px;
+    height: 293px;
+}
+.holder_instagram .holder_caption {
+    width: 293px;
+    height: 293px;
+    top: 0;
+}
+.holder_instagram .holder_onoff_on {
+    background: url(../images/turn_on_w.svg);
+}
+.holder_instagram .holder_onoff_off {
+    background: url(../images/turn_off_w.svg);
+}
+.holder_instagram .holder_option_off {
+    background: url(../images/option_off_w.svg);
+}
+.holder_instagram .holder_option_on {
+    background: url(../images/option_on_w.svg);
+}
+
+.holder_instagram .holder_move_pointer {
+    height: 293px;
+}
+.holder_instagram .holder_move_pointer0 {
+    height: 293px;
+}
+
+.holder_instagram .holder_move_pointer {
+    right: -22px;
+}

@@ -1,0 +1,27 @@
+
+.style1{
+    color:#ff0030;
+}
+
+.style2{
+    color:#ea7400;
+}
+
+.style3{
+    color:#d900b8;
+}
+
+ul, ol{
+    margin-left: -28px;
+    margin-top: 0px;
+}
+ol{
+    margin-left: -24px !important;
+}
+#cmsDialog{
+    position: absolute !important;
+    left: 0 !important;
+    right: 0 !important;
+    top: 30% !important;
+    margin: auto !important;
+}

@@ -1,0 +1,18 @@
+DirectoryIndex index.php
+
+RewriteEngine On
+
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)/$ 2020/$1 [L,R=301]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^(.*)$ 2020/index.php?module=$1 [L,QSA]
+

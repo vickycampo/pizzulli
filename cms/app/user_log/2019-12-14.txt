@@ -1,0 +1,288 @@
+05:12:24
+178.148.141.23
+user
+createFolder
+section_id=-1, , META INFO, , , text
+../data_cms 
+{"action":"createFolder","name":"META INFO","type":"text","parent_id":"-1"}
+<->
+05:12:14
+178.148.141.23
+user
+updateFolder
+section_id=1576330284, , x, , , 
+ ../data_cms/META INFO
+{"action":"updateFolder","id":"1576330284","name":"x","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier \",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+05:12:19
+178.148.141.23
+user
+deleteFolder
+section_id=1576330284, , , , , 
+ ../data_cms/x
+{"action":"deleteFolder","id":"1576330284"}
+<->
+05:12:30
+178.148.141.23
+user
+createFolder
+section_id=-1, , HTML SEARCH ENGINE CODE, , , text
+../data_cms 
+{"action":"createFolder","name":"HTML SEARCH ENGINE CODE","type":"text","parent_id":"-1"}
+<->
+05:12:16
+178.148.141.23
+user
+updateFolder
+section_id=1576330350, , HTML SEARCH ENGINE CODE, , , 
+ ../data_cms/HTML SEARCH ENGINE CODE
+{"action":"updateFolder","id":"1576330350","name":"HTML SEARCH ENGINE CODE","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer \",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"photography, fashion, travel, sexy, numinous, motion\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+05:12:01
+178.148.141.23
+user
+onoffObjects
+section_id=-1, , , , 1576330350, 
+ ../data_cms
+{"action":"onoffObjects","id":"-1","folders":["1576330350"],"status":"1"}
+<->
+05:12:17
+178.148.141.23
+user
+createFolder
+section_id=-1, , HTML SEARCH ENGINE CODE, , , text
+../data_cms 
+{"action":"createFolder","name":"HTML SEARCH ENGINE CODE","type":"text","parent_id":"-1"}
+<->
+05:12:40
+178.148.141.23
+user
+updateFolder
+section_id=1576330637, , HTML SEARCH ENGINE CODE_187, , , 
+ ../data_cms/HTML SEARCH ENGINE CODE_187
+{"action":"updateFolder","id":"1576330637","name":"HTML SEARCH ENGINE CODE_187","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"HTML SEARCH ENGINE CODE_187\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+05:12:44
+178.148.141.23
+user
+deleteFolder
+section_id=1576330637, , , , , 
+ ../data_cms/HTML SEARCH ENGINE CODE_187
+{"action":"deleteFolder","id":"1576330637"}
+<->
+05:12:32
+178.148.141.23
+user
+createFolder
+section_id=-1, , HTML SEARCH ENGINE CODE, , , text
+../data_cms 
+{"action":"createFolder","name":"HTML SEARCH ENGINE CODE","type":"text","parent_id":"-1"}
+<->
+05:12:37
+178.148.141.23
+user
+deleteFolder
+section_id=1576331132, , , , , 
+ ../data_cms/HTML SEARCH ENGINE CODE_400
+{"action":"deleteFolder","id":"1576331132"}
+<->
+05:12:18
+178.148.141.23
+user
+createFolder
+section_id=-1, , HTML SEARCH ENGINE CODE, , , portfolio
+../data_cms 
+{"action":"createFolder","name":"HTML SEARCH ENGINE CODE","type":"portfolio","parent_id":"-1"}
+<->
+05:12:28
+178.148.141.23
+user
+updateFolder
+section_id=1576331178, , HTML SEARCH ENGINE CODE_130, , , 
+ ../data_cms/HTML SEARCH ENGINE CODE_130
+{"action":"updateFolder","id":"1576331178","name":"HTML SEARCH ENGINE CODE_130","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"HTML SEARCH ENGINE CODE_130\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+05:12:41
+178.148.141.23
+user
+createFolder
+section_id=1576331178, , TITLE, , , text
+../data_cms/HTML SEARCH ENGINE CODE_130 
+{"action":"createFolder","name":"TITLE","type":"text","parent_id":"1576331178"}
+<->
+05:12:50
+178.148.141.23
+user
+createFolder
+section_id=1576331178, , DESCRIPTION, , , text
+../data_cms/HTML SEARCH ENGINE CODE_130 
+{"action":"createFolder","name":"DESCRIPTION","type":"text","parent_id":"1576331178"}
+<->
+05:12:53
+178.148.141.23
+user
+deleteFolder
+section_id=1576331178, , , , , 
+ ../data_cms/HTML SEARCH ENGINE CODE_130
+{"action":"deleteFolder","id":"1576331178"}
+<->
+05:12:21
+178.148.141.23
+user
+deleteFolder
+section_id=1576330350, , , , , 
+ ../data_cms/HTML SEARCH ENGINE CODE
+{"action":"deleteFolder","id":"1576330350"}
+<->
+05:12:32
+178.148.141.23
+user
+createFolder
+section_id=-1, , HTML SEARCH ENGINE CODE, , , portfolio
+../data_cms 
+{"action":"createFolder","name":"HTML SEARCH ENGINE CODE","type":"portfolio","parent_id":"-1"}
+<->
+05:12:40
+178.148.141.23
+user
+createFolder
+section_id=1576331312, , TITLE, , , text
+../data_cms/HTML SEARCH ENGINE CODE 
+{"action":"createFolder","name":"TITLE","type":"text","parent_id":"1576331312"}
+<->
+05:12:30
+178.148.141.23
+user
+createFolder
+section_id=1576331312, , DESCRIPTION, , , text
+../data_cms/HTML SEARCH ENGINE CODE 
+{"action":"createFolder","name":"DESCRIPTION","type":"text","parent_id":"1576331312"}
+<->
+05:12:03
+178.148.141.23
+user
+createFolder
+section_id=1576331312, , KEYWORDS, , , text
+../data_cms/HTML SEARCH ENGINE CODE 
+{"action":"createFolder","name":"KEYWORDS","type":"text","parent_id":"1576331312"}
+<->
+05:12:59
+178.148.141.23
+user
+createFolder
+section_id=1576331312, , GOOGLE ANALYTICS, , , text
+../data_cms/HTML SEARCH ENGINE CODE 
+{"action":"createFolder","name":"GOOGLE ANALYTICS","type":"text","parent_id":"1576331312"}
+<->
+05:12:11
+178.148.141.23
+user
+onoffObjects
+section_id=-1, , , , 1576331312, 
+ ../data_cms
+{"action":"onoffObjects","id":"-1","folders":["1576331312"],"status":"1"}
+<->
+05:12:59
+178.148.141.23
+user
+onoffObjects
+section_id=-1, , , , 1576331312, 
+ ../data_cms
+{"action":"onoffObjects","id":"-1","folders":["1576331312"],"status":"0"}
+<->
+05:12:53
+178.148.141.23
+user
+onoffObjects
+section_id=-1, , , , 1576331312, 
+ ../data_cms
+{"action":"onoffObjects","id":"-1","folders":["1576331312"],"status":"1"}
+<->
+05:12:18
+178.148.141.23
+user
+updateFolder
+section_id=1576331312, , HTML SEARCH ENGINE CODE, , , 
+ ../data_cms/HTML SEARCH ENGINE CODE
+{"action":"updateFolder","id":"1576331312","name":"HTML SEARCH ENGINE CODE","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+05:12:48
+178.148.141.23
+user
+updateFolder
+section_id=1576331312, , HTML SEARCH ENGINE CODE, , , 
+ ../data_cms/HTML SEARCH ENGINE CODE
+{"action":"updateFolder","id":"1576331312","name":"HTML SEARCH ENGINE CODE","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+05:12:05
+178.148.141.23
+user
+updateFolder
+section_id=1576331459, , GOOGLE ANALYTICS, , , 
+ ../data_cms/HTML SEARCH ENGINE CODE/GOOGLE ANALYTICS
+{"action":"updateFolder","id":"1576331459","name":"GOOGLE ANALYTICS","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"GOOGLE ANALYTICS\",\"description\":\"\",\"keywords\":\"\"}"}
+<->
+05:12:17
+178.148.141.23
+user
+updateFolder
+section_id=1576331312, , HTML SEARCH ENGINE CODE, , , 
+ ../data_cms/HTML SEARCH ENGINE CODE
+{"action":"updateFolder","id":"1576331312","name":"HTML SEARCH ENGINE CODE","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer\",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+05:12:41
+178.148.141.23
+user
+updateFolder
+section_id=1576331312, , HTML SEARCH ENGINE CODE, , , 
+ ../data_cms/HTML SEARCH ENGINE CODE
+{"action":"updateFolder","id":"1576331312","name":"HTML SEARCH ENGINE CODE","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer\",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"LA photographer, fashion, travel, sexy, numinous, motion\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+09:12:45
+178.148.141.23
+user
+createFolder
+section_id=-1, , META, , , text
+../data_cms 
+{"action":"createFolder","name":"META","type":"text","parent_id":"-1"}
+<->
+09:12:48
+178.148.141.23
+user
+onoffObjects
+section_id=-1, , , , 1576342905, 
+ ../data_cms
+{"action":"onoffObjects","id":"-1","folders":["1576342905"],"status":"1"}
+<->
+09:12:04
+178.148.141.23
+user
+updateFolder
+section_id=1576342905, , META, , , 
+ ../data_cms/META
+{"action":"updateFolder","id":"1576342905","name":"META","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"META\",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+09:12:28
+178.148.141.23
+user
+updateFolder
+section_id=1576342905, , META, , , 
+ ../data_cms/META
+{"action":"updateFolder","id":"1576342905","name":"META","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer\",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+09:12:43
+178.148.141.23
+user
+updateFolder
+section_id=1576342905, , META, , , 
+ ../data_cms/META
+{"action":"updateFolder","id":"1576342905","name":"META","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"Xavier Avila | LA Photographer\",\"description\":\"Xavier Avila is an LA-based photographer known for his fashion, travel, sexy and numinous photography.\",\"keywords\":\"LA photographer, fashion, travel, sexy, numinous, motion\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->
+09:12:48
+178.148.141.23
+user
+deleteFolder
+section_id=1576331312, , , , , 
+ ../data_cms/HTML SEARCH ENGINE CODE
+{"action":"deleteFolder","id":"1576331312"}
+<->

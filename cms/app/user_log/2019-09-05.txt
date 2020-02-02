@@ -1,0 +1,56 @@
+21:09:27
+127.0.0.1
+user
+getStructure
+section_id=, , , , , 
+ 
+{"action":"getStructure"}
+<->
+21:09:33
+127.0.0.1
+user
+moveToFolder
+section_id=fde76850d9a62a6ad507c7f3f7ac7b55, , , 11375164_8375.jpg, , 
+ ../data_cms/TOM
+{"action":"moveToFolder","id":"fde76850d9a62a6ad507c7f3f7ac7b55","to_id":"1549034023","files":["11375164_8375.jpg"]}
+<->
+21:09:26
+127.0.0.1
+user
+deleteObjects
+section_id=1549034023, , , 11375164_8375.jpg, , 
+ ../data_cms/B/B
+{"action":"deleteObjects","id":"1549034023","files":["11375164_8375.jpg"]}
+<->
+21:09:46
+127.0.0.1
+user
+getStructure
+section_id=, , , , , 
+ 
+{"action":"getStructure"}
+<->
+21:09:51
+127.0.0.1
+user
+moveToFolder
+section_id=fde76850d9a62a6ad507c7f3f7ac7b55, , , 11375163_3230.jpg, , 
+ ../data_cms/TOM
+{"action":"moveToFolder","id":"fde76850d9a62a6ad507c7f3f7ac7b55","to_id":"1561124874","files":["11375163_3230.jpg"]}
+<->
+21:09:14
+127.0.0.1
+user
+getStructure
+section_id=, , , , , 
+ 
+{"action":"getStructure"}
+<->
+21:09:19
+127.0.0.1
+user
+moveToFolder
+section_id=fde76850d9a62a6ad507c7f3f7ac7b55, , , 11375166_9218.jpg, , 
+ ../data_cms/TOM
+{"action":"moveToFolder","id":"fde76850d9a62a6ad507c7f3f7ac7b55","to_id":"1553946201","files":["11375166_9218.jpg"]}
+<->

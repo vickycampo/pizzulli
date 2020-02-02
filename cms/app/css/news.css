@@ -1,0 +1,193 @@
+i {
+    color: #000000;
+}
+textarea { 
+    resize: vertical;
+    color: #262324; 
+}
+.news_block {
+    position: relative;
+    display: block;
+    border: 1px solid #d1d3d4;
+    background-color: #ffffff;
+    padding: 12px;
+    width: 774px;
+    height: 22px;
+    overflow: hidden;
+}
+.news_block_inner {
+    width: 774px;
+}
+.news_block_cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    width: 800px;
+    height: 46px;
+}
+
+.news_block_cover_date {
+    display: inline-block;
+    width: 150px;
+    margin-right: 14px;
+    color: #6d6f71;
+    padding-left: 14px;
+    padding-top: 16px;
+    height: 30px;
+    vertical-align: top;
+    font-size: 12px;
+
+}
+.news_block_cover_header {
+    display: inline-block;
+    width: 574px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow:hidden;
+    height: 30px;
+    padding-top: 16px;
+    vertical-align: top;
+    font-size: 12px;
+    font-weight: bold;
+}
+.news_block_holder {
+    width: 800px;
+    margin: auto;   
+}
+
+.bold_link {
+    font-weight: bold;
+}
+.news_block_movepointer {
+    width: 100%;
+    height: 10px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    background-color: #b6b6b6;
+    opacity: 0;
+}
+
+.news_title {
+    padding-bottom: 12px;
+}
+.news_input {
+    font-size: 12px;
+    line-height: 16px;
+}
+.news_date {
+    font-size: 12px;
+    width: 148px;
+    margin-right: 15px;
+    color: #6d6f71;
+}
+.news_header {
+    font-size: 12px;
+    width: 578px;
+    color: #262324; 
+}
+.news_body {
+    font-size: 12px;
+    display: inline-block;
+    width: 582px;
+}
+.news_media {
+    display: inline-block;
+    width: 152px;
+    margin-right: 15px;
+    vertical-align: top;
+}
+.news_controls {
+    display: inline-block;
+    width: 150px;
+}
+.news_update {
+    display: none;
+}
+
+.button {
+    background-color: #fff;
+    border: 1px solid #6d6f71;
+    width: 164px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px !important;
+    line-height: 12px;
+    font-weight: bold;
+    margin-top: 34px;
+    margin-bottom: 34px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    cursor: pointer;
+}
+
+
+form {
+  margin-bottom: 0;
+}
+.button-sm {
+    font-size: 12px !important;
+    border: 1px solid #6d6f71;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;  
+    width: 150px;
+    cursor: pointer;
+}
+.news_image_holder {
+    position: relative;
+    width: 150px;
+    margin-bottom: 12px;
+    border: 1px solid #d1d3d4;
+    text-align: center;
+
+}
+.delete_news_image {
+    position: absolute;
+    top:0;
+    right: 0;
+    width: 20px;
+    height: 20px;
+    display: block;
+    background-image: url(../images/delete_image.svg);
+    cursor: pointer;
+}
+.button-red {
+    background-color: #ff0000;
+}
+
+.rotate90 {
+   transform: rotate(90deg);
+}
+
+.remove_news {
+   background-image: url(../images/delete_news.svg);
+   position: absolute;
+   bottom: 15px;
+   right: 12px;
+   cursor:pointer;
+   height: 16px;
+   width: 16px;
+}
+.drag_news_div {
+   display: none;
+   position: absolute;
+   top: 10px;
+   right: 10px;
+}
+
+.close_news {
+   background-image: url(../images/hide_news.svg);
+   display: none;
+   position: absolute;
+   top: 12px;
+   right: 12px;
+   cursor:pointer;
+   height: 16px;
+   width: 16px;
+}

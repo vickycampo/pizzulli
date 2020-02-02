@@ -1,0 +1,4 @@
+{"action":"createFolder","name":"CMS GUIDE","type":"text","parent_id":"-1"}
+<->
+{"action":"updateFolder","id":"1543677143","name":"SAFARI","descr1":"","descr2":"","descr3":"","descr4":"","show_preview":"0","seo":"{\"title\":\"SAFARI\",\"description\":\"\",\"keywords\":\"\",\"ga\":\"\",\"gpixel\":\"\",\"fbpixel\":\"\"}"}
+<->

@@ -1,0 +1,48 @@
+21:11:18
+127.0.0.1
+user
+
+section_id=, , , , , 
+../data_cms/pics ../data_cms/pics
+[]
+<->
+22:11:30
+127.0.0.1
+user
+deleteObjects
+section_id=5, , , 69_7583_8285_40.jpg, , 
+ ../data_cms/VIDEO
+{"action":"deleteObjects","id":"5","files":["69_7583_8285_40.jpg"]}
+<->
+22:11:35
+127.0.0.1
+user
+moveFileToPosition
+section_id=5, WhatsApp Image 2019-05-09 at 16.26.36(2)_5324.jpg, , , , 
+ ../data_cms/VIDEO
+{"action":"moveFileToPosition","id":"5","aim":"WhatsApp Image 2019-05-09 at 16.26.36(2)_5324.jpg","target":"WhatsApp Image 2019-05-09 at 16.26.35(1)_9683.jpg","old_position":"20","new_position":"19","position":"before"}
+<->
+22:11:38
+127.0.0.1
+user
+getStructure
+section_id=, , , , , 
+ 
+{"action":"getStructure"}
+<->
+22:11:42
+127.0.0.1
+user
+moveToFolder
+section_id=5, , , video_2432.mp4, , 
+ ../data_cms/VIDEO
+{"action":"moveToFolder","id":"5","to_id":"1545905928","files":["video_2432.mp4"]}
+<->
+22:11:51
+127.0.0.1
+user
+updateFile
+section_id=5, , upc-tobymanley.theora_1931.ogg, , , 
+ ../data_cms/VIDEO
+{"action":"updateFile","id":"5","name":"upc-tobymanley.theora_1931.ogg","caption1":"nb","caption2":"","caption3":"popob","caption4":"","txt":"<p><br><\/p>"}
+<->

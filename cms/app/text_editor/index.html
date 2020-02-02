@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+
+        <!-- Load jQuery -->
+       
+        <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+        <script type="text/javascript">
+            google.load("jquery", "1");
+        </script>
+
+        <!-- Load jQuery build -->
+        <script type="text/javascript" src="tinymce/js/tinymce/jquery.tinymce.min.js"></script>
+        <script type="text/javascript" src="SelectBox/jquery.selectBox.js"></script>
+        <script type="text/javascript" src="js/jquery.form.min.js"></script>
+        
+        <link rel="stylesheet" href="SelectBox/jquery.selectBox.css">
+        <link rel="stylesheet" href="css/main.css?i=3">
+        <link rel="stylesheet" href="css/spinner.css">
+        
+       
+        <script src="CodeMirror/lib/codemirror.js"></script>
+        <link rel="stylesheet" href="CodeMirror/lib/codemirror.css">
+        
+        <script src="CodeMirror/mode/xml/xml.js"></script>
+        <script src="CodeMirror/mode/javascript/javascript.js"></script>
+        <script src="CodeMirror/mode/css/css.js"></script>
+        <script src="CodeMirror/mode/htmlmixed/htmlmixed.js"></script>
+        <script type="text/javascript" src="js/text_editor_integration.js?i=1"></script>
+        
+        
+        <script type="text/javascript">
+            
+            var offsetWindow = 100;
+            $(function () {
+                $('textarea.tinymce').tinymce({
+                    // Location of TinyMCE script
+                    script_url: 'tinymce/js/tinymce/tinymce.js',
+                    // General options
+                    skin: "cms",
+                   // menubar: false,
+                    theme: "cms",
+                    s3dir:"1",
+                    s1_text:"STYLE1",
+                    s2_text:"STYLE2",
+                    s3_text:"style3",
+                    plugins : " media_cms code_cms email paste style link_cms font_style advlist_cms align_cms",
+                    paste_auto_cleanup_on_paste : true,
+                    paste_postprocess : function(pl, o) {
+                        // Content DOM node containing the DOM structure of the clipboard
+                        //alert(o.node.innerHTML);
+                        o.node.innerText = o.node.innerText.replace(/<\/?[^>]+(>|$)/g, "");
+                    },
+                    paste_remove_spans : true,
+                    paste_remove_styles : true,
+                    media_strict: false,
+                    //mode: "exact", 
+                    //convert_urls: false, 
+                    //valid_elements : '*[*]\\',
+                    //extended_valid_elements : "video[controls|preload|width|height|data-setup],source[src|type]",
+                   extended_valid_elements : "*[*]",
+                  //  plugins: "pagebreak,style,layer,table,save,advhr,advimage,advlink,emotions,iespell,inlinepopups,insertdatetime,preview,media,searchreplace,print,contextmenu,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,template",
+                    // Theme options
+                    //theme_advanced_buttons1: "save,newdocument,|,bold,italic,underline,strikethrough,|,justifyleft,justifycenter,justifyright,justifyfull,styleselect,formatselect,fontselect,fontsizeselect",
+                    //theme_advanced_buttons2: "cut,copy,paste,pastetext,pasteword,|,search,replace,|,bullist,numlist,|,outdent,indent,blockquote,|,undo,redo,|,link,unlink,anchor,image,cleanup,help,code,|,insertdate,inserttime,preview,|,forecolor,backcolor",
+                    //theme_advanced_buttons3: "tablecontrols,|,hr,removeformat,visualaid,|,sub,sup,|,charmap,emotions,iespell,media,advhr,|,print,|,ltr,rtl,|,fullscreen",
+                    //theme_advanced_buttons4: "insertlayer,moveforward,movebackward,absolute,|,styleprops,|,cite,abbr,acronym,del,ins,attribs,|,visualchars,nonbreaking,template,pagebreak",
+                    theme_advanced_toolbar_location: "top",
+                    theme_advanced_toolbar_align: "left",
+                    
+                   // theme_advanced_resizing: true,
+                    height: $( window ).height()-offsetWindow,
+                   // setup : function(ed) {  
+                    //    setupEditor(ed);
+                      //           // Add a custom button
+    //                         }
+      
+                   autoresize_min_height: 100,
+                    autoresize_max_height: 2000,
+                    init_instance_callback: function (inst) { inst.execCommand('mceAutoResize'); },
+                    
+                    setup : function(ed) {
+                    	 ed.on("init", function(ed){
+                            console.debug('Editor is done: ' + ed.id);
+                            $("div.mce-edit-area").height($( window ).height()-offsetWindow);
+                           
+                        });
+                    	// ed.on("paste",function(ed, e) {
+                          //   console.debug('Pasted plain text');//style="display: none;"
+                          //   ed.setContent('<span>some</span> html', {format : 'raw'});
+                             //ed.node.innerText = "123";//o.node.innerText.replace(/\<div(\s?style=\"display: none;\")\>/g, "");
+                        //});
+                    	 
+                     },
+                    
+                    // Example content CSS (should be your site CSS)
+                     content_css: "css/style.css"
+                    // Drop lists for link/image/media/template dialogs
+                   // template_external_list_url: "lists/template_list.js",
+                    //external_link_list_url: "lists/link_list.js",
+                    //external_image_list_url: "lists/image_list.js",
+                   // media_external_list_url: "lists/media_list.js",
+                    // Replace values for the template plugin
+                    //template_replace_values: {
+                     //   username: "Some User",
+                      //  staffid: "991234"
+                    //}
+                });
+            });
+            $(document).ready(function(){
+                
+                
+                $( window ).resize(function() {
+            		 
+            		  $("div.mce-edit-area").height($( window ).height()-offsetWindow);
+            		  $(".CodeMirror").height($( window ).height()-offsetWindow);
+                });
+                
+                $('#year-dropdown').selectBox({  mobile: true});
+                //$('#month-dropdown').selectBox();
+                $('#day-dropdown').selectBox({  mobile: true});
+                
+                $('#month-dropdown').selectBox({
+                    mobile: true//,
+                 //   close:alert("ok")
+                });
+                
+              
+                
+            
+             });
+            
+        </script>
+        <div style="width:100%;height: 100%;">
+        <div class = "mainTitle">HEADER OR NOTE</div>
+        <div>
+            
+          <div class = "titleInput">  
+            <input id="title" class="mainInput"  type="text">  
+          </div>
+         <div class = "datePicker">   
+         <select id="year-dropdown" name="year" class="custom-class1 custom-class2 year-center" style="width: 60px;">
+            <option value="0" selected>YYYY</option>
+            <option value="1">2016</option>
+            <option value="1">2015</option>
+            <option value="2">2014</option>
+            <option value="3">2013</option>
+            <option value="4" >2012</option>
+            <option value="5">2011</option>
+            <option value="6">2010</option>
+            <option value="7">2009</option>
+            <option value="8">2008</option>
+            <option value="9">2008</option>
+            <option value="10">2007</option>
+            <option value="11">2006</option>
+            <option value="12">2005</option>
+            <option value="13">2004</option>
+            <option value="14">2003</option>
+            <option value="15">2002</option>
+            <option value="16">2001</option>
+        </select>
+            <span class = "delemiter"> / </span>
+         <select id="month-dropdown" name="month" class="custom-class1 custom-class2" style="width: 40px;">
+            <option value="0" selected>MM</option>
+            <option value="1">01 January</option>
+            <option value="2">02 February</option>
+            <option value="3">03 March</option>
+            <option value="4" >04 April</option>
+            <option value="5">05 May</option>
+            <option value="6">06 June</option>
+            <option value="7">07 July</option>
+            <option value="8">08 August</option>
+            <option value="9">09 September</option>
+            <option value="10">10 October</option>
+            <option value="11">11 November</option>
+            <option value="12">12 December</option>
+        </select>   
+         <span class = "delemiter"> / </span>
+          <select id="day-dropdown" name="day" class="custom-class1 custom-class2" style="width: 40px;">
+            <option value="0">DD</option>
+            <option value="1">01</option>
+            <option value="2">02</option>
+            <option value="3">03</option>
+            <option value="4" >04</option>
+            <option value="5">05</option>
+            <option value="6">06</option>
+            <option value="7">07</option>
+            <option value="8">08</option>
+            <option value="9">09</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+            <option value="13">13</option>
+            <option value="14">14</option>
+            <option value="15">15</option>
+            <option value="16">16</option>
+            <option value="17">17</option>
+            <option value="18">18</option>
+            <option value="19">19</option>
+            <option value="20" >20</option>
+            <option value="21">21</option>
+            <option value="22">22</option>
+            <option value="23">23</option>
+            <option value="24">24</option>
+            <option value="25">25</option>
+            <option value="26">26</option>
+            <option value="27">27</option>
+            <option value="28">28</option>
+            <option value="29">29</option>
+            <option value="30">30</option>
+            <option value="31">31</option>
+        </select>  
+         </div>   
+            <div style="clear: both"></div>   
+            
+        </div>
+        
+        <div class = "mainIndent"></div>
+        <form method="post" action="somepage"  style="height:80%;">
+            <textarea id="content" name="content" class="tinymce" style="width:100%;height: 100%;">
+            </textarea>
+            
+
+            <!-- Some integration calls -->
+            <a href="javascript:;" onmousedown="$('.mce-stack-layout').show();">[Show]</a>
+            <a href="javascript:;" onmousedown="$('.mce-stack-layout').hide();">[Hide]</a>
+           <!-- <a href="javascript:;" onmousedown="$('#content').tinymce().execCommand('Bold');">[Bold]</a>
+            <a href="javascript:;" onmousedown="$('#content').tinymce().execCommand('Italic');">[Italic]</a>
+            
+            
+             <a href="javascript:;" onmousedown="$('#content').tinymce().execCommand('justifyleft');">[AlignLeft]</a>
+             <a href="javascript:;" onmousedown="$('#content').tinymce().execCommand('justifyright');">[AlignRight]</a>
+             <a href="javascript:;" onmousedown="$('#content').tinymce().execCommand('justifycenter');">[AlignCenter]</a>
+               
+            <a href="javascript:;" onmousedown="alert($('#content').html());">[Get contents]</a>
+            <a href="javascript:;" onmousedown="alert($('#content').tinymce().selection.getContent());">[Get selected HTML]</a>
+            <a href="javascript:;" onmousedown="alert($('#content').tinymce().selection.getContent({format: 'text'}));">[Get selected text]</a>
+            <a href="javascript:;" onmousedown="alert($('#content').tinymce().selection.getNode().nodeName);">[Get selected element]</a>
+            <a href="javascript:;" onmousedown="$('#content').tinymce().execCommand('mceInsertContent', false, '<b>Hello world!!</b>');">[Insert HTML]</a>
+            <a href="javascript:;" onmousedown="$('#content').tinymce().execCommand('mceReplaceContent', false, '<b>{$selection}</b>');">[Replace selection]</a>-->
+       
+            
+        
+        </form>
+        <div style="width:100%;text-align: right;"><div><a href="#"  class = "mainTitle" onClick="saveAll();return false;">SAVE</a></div></div>
+       
+        </div>
+        
+    </body>
+</html>
+<script>
+function getTitle(){
+  return $("#title").val();
+}
+function setTitle(val){
+  //console.log(val);
+  $("#title").val(val);
+}
+function setDate(val){
+  arr = val.split("-");
+  //console.log(arr[0]);
+  $("#day-dropdown  option").each(function() {
+    if(this.text==arr[0]){
+      $('#day-dropdown').val(this.value);
+    }
+  });
+  $("#month-dropdown  option").each(function() {
+    if(this.text==arr[1]){
+      $('#month-dropdown').val(this.value);
+    }
+  });
+  $("#year-dropdown  option").each(function() {
+    if(this.text==arr[2]){
+      $('#year-dropdown').val(this.value);
+    }
+  });
+  //console.log($( "#day-dropdown option:selected" ).text());
+}
+
+function get_Date(){
+  return $( "#day-dropdown option:selected" ).text()+"-"+$( "#month-dropdown option:selected" ).text()+"-"+$( "#year-dropdown option:selected" ).text();
+}
+
+
+function saveAll(){
+  console.log($('.CodeMirror').length);
+  window.top.saveData();
+}
+</script>

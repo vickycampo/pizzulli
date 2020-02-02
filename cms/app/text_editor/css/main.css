@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11.09.2015, 13:37:56
+    Author     : nos
+*/
+
+html 
+{
+	height: calc(100% - 2px);
+}
+
+body {
+	margin: 0;
+	height: 100%;
+}
+
+@font-face {
+    font-family: CMS;
+    src: url(../fonts/AvenirNextCondensed-Medium.ttf);  /* contains multiple font faces */
+  }
+
+  *{
+      font-family: CMS;
+  }
+  
+.mainInput{
+    height: 18px;
+    border: 1px solid #a5a5a5;
+    width: 100%;
+    color: #686868;
+    font-size: 14px;
+}
+
+.mainTitle{
+    font-weight: 400;
+    font-size: 14px;
+    color: #686868;
+    text-decoration: none;
+    /*margin: 15px 0px 5px 0px;*/
+}
+.mainIndent{
+    height: 40px;
+}
+
+
+
+.delemiter{
+    position: relative;
+    top: 3px;
+}
+
+
+.datePicker{
+    float: right;
+}
+
+.titleInput{
+    float: left;
+    position: absolute;
+    right: 200px;
+    left: 0px;
+}
+div.mce-edit-area{
+    height: calc(100% - 45px)!important;
+}
+.year-center-selectBox-dropdown-menu{
+text-align: center;
+}
+.selectBox-dropdown .selectBox-label {
+    padding: 1px 8px !important;
+}
+
+.mce-tinymce 
+{
+    height: 100%;
+}
+
+

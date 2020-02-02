@@ -1,0 +1,24 @@
+04:06:17
+127.0.0.1
+user
+addFile
+section_id=5, MAIN4.jpg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+04:06:23
+127.0.0.1
+user
+addFile
+section_id=5, kod.mp4, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->
+04:06:24
+127.0.0.1
+user
+addFile
+section_id=5, MAIN4_MOB.jpg, , , , 
+ ../data_cms/VIDEO
+{"action":"addFile","id":"5"}
+<->

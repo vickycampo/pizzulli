@@ -1,0 +1,12 @@
+[]
+<->
+{"action":"deleteObjects","id":"5","files":["69_7583_8285_40.jpg"]}
+<->
+{"action":"moveFileToPosition","id":"5","aim":"WhatsApp Image 2019-05-09 at 16.26.36(2)_5324.jpg","target":"WhatsApp Image 2019-05-09 at 16.26.35(1)_9683.jpg","old_position":"20","new_position":"19","position":"before"}
+<->
+{"action":"getStructure"}
+<->
+{"action":"moveToFolder","id":"5","to_id":"1545905928","files":["video_2432.mp4"]}
+<->
+{"action":"updateFile","id":"5","name":"upc-tobymanley.theora_1931.ogg","caption1":"nb","caption2":"","caption3":"popob","caption4":"","txt":"<p><br><\/p>"}
+<->

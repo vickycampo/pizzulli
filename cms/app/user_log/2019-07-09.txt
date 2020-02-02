@@ -1,0 +1,168 @@
+00:07:27
+127.0.0.1
+user
+deleteObjects
+section_id=1545905964, , , Rio_9022.jpg,png_7007.jpg,png_2801.jpg, , 
+ ../data_cms/33_401
+{"action":"deleteObjects","id":"1545905964","files":["Rio_9022.jpg","png_7007.jpg","png_2801.jpg"]}
+<->
+00:07:05
+127.0.0.1
+user
+addFile
+section_id=1545905964, PastedGraphic-3.png, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->
+00:07:27
+127.0.0.1
+user
+deleteObjects
+section_id=1545905964, , , PastedGraphic-3_6334.jpg, , 
+ ../data_cms/33_401
+{"action":"deleteObjects","id":"1545905964","files":["PastedGraphic-3_6334.jpg"]}
+<->
+00:07:41
+127.0.0.1
+user
+addFile
+section_id=1545905964, PastedGraphic-3.png, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->
+00:07:18
+127.0.0.1
+user
+deleteObjects
+section_id=1545905964, , , PastedGraphic-3_3288.jpg, , 
+ ../data_cms/33_401
+{"action":"deleteObjects","id":"1545905964","files":["PastedGraphic-3_3288.jpg"]}
+<->
+00:07:36
+127.0.0.1
+user
+addFile
+section_id=1545905964, PastedGraphic-3.png, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->
+00:07:26
+127.0.0.1
+user
+addFile
+section_id=1545905964, animgif.gif, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->
+00:07:36
+127.0.0.1
+user
+deleteObjects
+section_id=1545905964, , , PastedGraphic-3_8655.png, , 
+ ../data_cms/33_401
+{"action":"deleteObjects","id":"1545905964","files":["PastedGraphic-3_8655.png"]}
+<->
+00:07:49
+127.0.0.1
+user
+deleteObjects
+section_id=1545905964, , , animgif_8894.gif, , 
+ ../data_cms/33_401
+{"action":"deleteObjects","id":"1545905964","files":["animgif_8894.gif"]}
+<->
+00:07:07
+127.0.0.1
+user
+addFile
+section_id=1545905964, 1.png, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->
+00:07:29
+127.0.0.1
+user
+addFile
+section_id=1545905964, 1.png, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->
+00:07:26
+127.0.0.1
+user
+deleteObjects
+section_id=1545905964, , , 1_4521.jpg, , 
+ ../data_cms/33_401
+{"action":"deleteObjects","id":"1545905964","files":["1_4521.jpg"]}
+<->
+00:07:33
+127.0.0.1
+user
+addFile
+section_id=1545905964, 1.png, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->
+00:07:49
+127.0.0.1
+user
+addFile
+section_id=1545905964, 1.png, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->
+00:07:44
+127.0.0.1
+user
+addFile
+section_id=1545905964, 1.png, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->
+00:07:55
+127.0.0.1
+user
+cropImage
+section_id=1545905964, , 1_3104.jpg, , , 
+ ../data_cms/33_401
+{"action":"cropImage","id":"1545905964","name":"1_3104.jpg","coords":{"x1":"4.534136546184739","x2":"1.3878303626306085","y1":"5.568807339449541","y2":"1.4715151515151514"},"target":"images"}
+<->
+00:07:48
+127.0.0.1
+user
+deleteObjects
+section_id=1545905964, , , 1_7876.jpg, , 
+ ../data_cms/33_401
+{"action":"deleteObjects","id":"1545905964","files":["1_7876.jpg"]}
+<->
+00:07:52
+127.0.0.1
+user
+deleteObjects
+section_id=1545905964, , , 1_4970.jpg, , 
+ ../data_cms/33_401
+{"action":"deleteObjects","id":"1545905964","files":["1_4970.jpg"]}
+<->
+00:07:13
+127.0.0.1
+user
+addFile
+section_id=1545905964, animgif.gif, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->
+01:07:45
+127.0.0.1
+user
+deleteObjects
+section_id=1545905964, , , animgif_2615.gif, , 
+ ../data_cms/33_401
+{"action":"deleteObjects","id":"1545905964","files":["animgif_2615.gif"]}
+<->
+01:07:54
+127.0.0.1
+user
+addFile
+section_id=1545905964, animgif.gif, , , , 
+ ../data_cms/33_401
+{"action":"addFile","id":"1545905964"}
+<->

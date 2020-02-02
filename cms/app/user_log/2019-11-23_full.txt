@@ -1,0 +1,4 @@
+{"action":"addFile","id":"1545905928"}
+<->
+{"action":"storeVideoSize","id":"1545905928","name":"VIRAUS3142_Brand_DOOH_man_1920x1080px_[WxH]_R2_1794.mp4","width":"3840","height":"2160"}
+<->

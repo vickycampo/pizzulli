@@ -1,0 +1,21 @@
+[
+ {
+ "parent_id":"-1","id":"1575638452","name":"TEST","type":"portfolio","count":"0","status":"1","description":"","description2":"","description3":"","description4":"","show_preview":"1",
+ "sections":
+ [
+ ],
+ "content":
+ [
+   {"th":"100","tw":"200","sth":"250","stw":"420","name":"1201_6517.jpg","thmbname":"1201_6517.jpg","ih":"482","iw":"631","sih":"400","siw":"524","lih":"0","liw":"0","status":"1","option":"0","caption":"","caption1":"","caption2":"","caption3":"","caption4":"","cropped":"0"}
+ ]
+ },
+ {
+ "id":"1575638500","name":"INFO","type":"text","count":"0","status":"1","description":"","description2":"","description3":"","description4":"","parent_id":"-1",
+ "sections":
+ [
+ ],
+ "content":
+ [
+ ]
+ }
+]
